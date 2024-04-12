@@ -1,0 +1,2 @@
+﻿graph,nodeProjection,nodes,rels
+"""patient_journey""","{Condition: {label: ""Condition"", properties: {}}, Medication: {label: ""Medication"", properties: {}}, Patient: {label: ""Patient"", properties: {}}, Procedure: {label: ""Procedure"", properties: {}}, Day: {label: ""Day"", properties: {}}}",26130,43112
