@@ -1,0 +1,1001 @@
+OSID,EPI_ID,adm_setting_class_des,adm_setting,adm_type,dxc_pccl,date_adm,los,date_dis,resi_type,inst_name,specialty,dis_outcome,sbodcate
+292,Piu8643,C,IN,TRUE,4,2024-08-17,1,2024-08-18,SC,SGH,Others,Follow-up at SOC,Cardiovascular disease
+224,vua1848,B2,IN,FALSE,2,2024-08-14,1,2024-08-15,SC,CGH,Others,Follow-up at SOC,Other Cate
+303,EEy8868,B2,IN,FALSE,0,2024-09-29,1,2024-09-30,SC,NUH,Others,Discharged,Other Cate
+208,uAJ1055,DS Pte/Sub,DY,FALSE,3,2024-08-01,1,2024-08-02,NR,KKH,Ophthalmology,Follow-up at SOC,Other Cate
+33,sTK6324,A,IN,FALSE,0,2024-07-11,1,2024-07-12,SC,CGH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+462,urE2930,DS Pte/Sub,DY,FALSE,-,2024-09-19,1,2024-09-20,SC,NTFGH,Others,Follow-up at SOC,Neurological and sense disorders
+56,bSz5090,DS Pte/Sub,DY,FALSE,0,2024-08-29,1,2024-08-30,SC,TTSH,Ophthalmology,Follow-up at SOC,Other Cate
+166,lez8944,A,IN,FALSE,-,2024-07-15,1,2024-07-16,SC,NUH,General Medicine,Discharged,Other Cate
+24,QSB8903,DS Pte/Sub,DY,FALSE,0,2024-08-18,1,2024-08-19,SC,NHC,Others,Discharged,Other Cate
+7,ELC6183,DS Pte/Sub,DY,FALSE,0,2024-08-17,1,2024-08-18,SC,KKH,General Surgery,Discharged,Neurological and sense disorders
+217,fuv1249,DS Pte/Sub,DY,FALSE,-,2024-08-12,1,2024-08-13,SC,KTPH,General Surgery,Follow-up at SOC,Cardiovascular disease
+92,LiJ7953,C,IN,FALSE,-,2024-09-11,1,2024-09-12,SC,KKH,Ophthalmology,Follow-Up At Primary Care,III-defined diseases
+96,IbA6864,B2+,IN,TRUE,-,2024-08-29,1,2024-08-30,SC,NUH,Others,Follow-up at SOC,Other Cate
+430,TqE2355,DS Pte/Sub,DY,TRUE,0,2024-08-29,1,2024-08-30,SC,SGH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+92,wHz9244,DS Pte/Sub,DY,TRUE,0,2024-08-04,1,2024-08-05,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+151,SgN2978,B2,IN,TRUE,0,2024-08-23,1,2024-08-24,SC,SGH,Others,Discharged,Other Cate
+201,OSv0266,DS Pte/Sub,DY,TRUE,0,2024-08-13,1,2024-08-14,SC,KTPH,Others,Follow-up at SOC,Neurological and sense disorders
+453,Dgb7195,C,IN,TRUE,0,2024-09-22,1,2024-09-23,SC,TTSH,Others,Follow-up at SOC,Cardiovascular disease
+331,jRf1830,DS Pte/Sub,DY,TRUE,-,2024-09-04,1,2024-09-05,SC,SGH,Others,Follow-up at SOC,Other Cate
+373,LMz6674,DS Pte/Sub,DY,TRUE,0,2024-09-02,1,2024-09-03,SC,SGH,Ophthalmology,Follow-up at SOC,Other Cate
+426,bFS0534,B2+,IN,FALSE,2,2024-09-25,1,2024-09-26,SC,SGH,Others,Follow-up at SOC,Other Cate
+269,WUG2968,DS Pte/Sub,DY,TRUE,3,2024-08-16,1,2024-08-17,SC,SGH,Others,Others,Other Cate
+308,nKx9305,B1,IN,FALSE,-,2024-09-06,1,2024-09-07,SC,NUH,General Medicine,Discharged,Other Cate
+394,Ftf5132,C,IN,FALSE,-,2024-09-25,1,2024-09-26,PR,NUH,General Medicine,Discharged,Digestive disease
+243,WZm8209,B2,IN,TRUE,-,2024-08-19,1,2024-08-20,NR,NUH,Others,Others/Step-down care,Cardiovascular disease
+195,Jri7957,DS Pte/Sub,DY,FALSE,0,2024-07-04,1,2024-07-05,SC,NHC,General Medicine,Discharged,Other Cate
+149,USl8014,C,IN,TRUE,4,2024-07-29,1,2024-07-30,SC,SGH,General Medicine,Follow-up at SOC,Genitourinary disorders
+450,dWD4629,B2,IN,FALSE,-,2024-09-29,1,2024-09-30,NR,NUH,General Medicine,Follow-up at SOC,Other Cate
+470,cZE2666,C,IN,TRUE,-,2024-09-23,1,2024-09-24,SC,KKH,Ophthalmology,Follow-up at SOC,Neurological and sense disorders
+251,eDX1695,B1,IN,TRUE,4,2024-08-30,1,2024-08-31,SC,NUH,General Medicine,Discharged,Other Cate
+401,Ytw8826,DS Pte/Sub,DY,TRUE,0,2024-07-18,1,2024-07-19,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+340,VFW2701,DS Pte/Sub,DY,FALSE,0,2024-07-22,1,2024-07-23,SC,SGH,Others,Follow-up at SOC,Genitourinary disorders
+64,NEp9456,B2,IN,TRUE,-,2024-09-11,1,2024-09-12,SC,SNEC,General Surgery,Follow-up at SOC,Neurological and sense disorders
+168,HFS4516,DS Pte/Sub,DY,FALSE,-,2024-09-02,1,2024-09-03,SC,KTPH,General Medicine,Follow-up at SOC,Other Cate
+289,Ftj3344,B1,IN,TRUE,4,2024-07-21,1,2024-07-22,SC,NUH,General Medicine,Follow-up at SOC,Other Cate
+500,cRM0975,DS Pte/Sub,DY,TRUE,4,2024-09-26,1,2024-09-27,SC,SGH,Others,Follow-up at SOC,Other Cate
+300,FCI3476,C,IN,TRUE,-,2024-07-02,1,2024-07-03,SC,KKH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+52,nOt9204,C,IN,TRUE,-,2024-08-30,1,2024-08-31,SC,NUH,General Surgery,Follow-up at SOC,III-defined diseases
+276,sKP4724,B2,IN,TRUE,0,2024-07-17,1,2024-07-18,SC,NUH,Others,Follow-up at SOC,Other Cate
+155,VfR6170,DS Pte/Sub,DY,TRUE,-,2024-09-23,1,2024-09-24,SC,AH,General Medicine,Follow-up at SOC,Other Cate
+259,zYE0715,B2,IN,FALSE,0,2024-08-15,1,2024-08-16,SC,NUH,General Surgery,Follow-up at SOC,Other Cate
+88,bBS2003,B2,IN,TRUE,0,2024-07-16,1,2024-07-17,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+322,DgR8753,B2,IN,TRUE,4,2024-09-02,1,2024-09-03,SC,NUH,Others,Discharged,Cardiovascular disease
+287,uqB4997,C,IN,TRUE,2,2024-07-25,1,2024-07-26,SC,SNEC,General Medicine,Follow-up at SOC,Digestive disease
+480,tMY9217,B2,IN,FALSE,-,2024-09-06,1,2024-09-07,SC,SGH,Others,Follow-up at SOC,Digestive disease
+35,hGZ2826,DS Pte/Sub,DY,FALSE,0,2024-07-05,1,2024-07-06,SC,NATIONAL CANCER CENTRE SINGAPORE,Otorhinolaryngology,Follow-up at SOC,Other Cate
+427,nSV5212,DS Pte/Sub,DY,FALSE,0,2024-09-28,1,2024-09-29,NR,TTSH,General Medicine,Others/Step-down care,III-defined diseases
+35,pSv4222,B1,IN,FALSE,0,2024-07-12,1,2024-07-13,SC,TTSH,Others,Others,Other Cate
+334,GJM0007,B2,IN,TRUE,2,2024-07-09,1,2024-07-10,SC,SGH,Otorhinolaryngology,Discharged,Other Cate
+262,IwF0417,C,IN,FALSE,0,2024-08-23,1,2024-08-24,SC,KTPH,Orthopaedic Surgery,Follow-up at SOC,Digestive disease
+35,fzR1020,DS Pte/Sub,DY,TRUE,-,2024-07-22,1,2024-07-23,SC,CGH,General Medicine,Discharged,Other Cate
+419,Edm4398,DS Pte/Sub,DY,TRUE,-,2024-09-23,1,2024-09-24,SC,SNEC,Ophthalmology,Follow-up at SOC,Genitourinary disorders
+90,oYT0017,B1,IN,FALSE,0,2024-07-07,1,2024-07-08,SC,KKH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+381,OLd1636,A,IN,FALSE,3,2024-09-25,1,2024-09-26,SC,SGH,General Surgery,Follow-up at SOC,Neurological and sense disorders
+344,FBW7534,B2,IN,TRUE,-,2024-09-16,1,2024-09-17,SC,KTPH,General Medicine,Discharged,Digestive disease
+91,jfe0640,B2+,IN,TRUE,-,2024-08-14,1,2024-08-15,SC,KKH,Others,Discharged,Other Cate
+166,jZb1535,DS Pte/Sub,DY,FALSE,-,2024-09-16,1,2024-09-17,SC,TTSH,General Surgery,Follow-up at SOC,Other Cate
+31,WwT3283,C,IN,FALSE,0,2024-07-15,1,2024-07-16,SC,NUH,Others,Others/Step-down care,Other Cate
+62,oEH3567,C,IN,FALSE,4,2024-08-28,1,2024-08-29,PR,SGH,Otorhinolaryngology,Discharged,Other Cate
+339,PII0441,B1,IN,TRUE,0,2024-08-08,1,2024-08-09,SC,SKH,Others,Follow-up at SOC,Neurological and sense disorders
+117,Qly0125,C,IN,FALSE,4,2024-07-09,1,2024-07-10,PR,KTPH,Others,Follow-up at SOC,Neurological and sense disorders
+309,zRS5005,B1,IN,FALSE,0,2024-07-12,1,2024-07-13,SC,TTSH,General Surgery,Follow-up at SOC,Other Cate
+139,nXm4876,C,IN,FALSE,-,2024-09-08,1,2024-09-09,SC,AH,Others,Follow-up at SOC,Other Cate
+169,kbw9399,DS Pte/Sub,DY,FALSE,-,2024-07-19,1,2024-07-20,SC,NUH,Others,Follow-up at SOC,Other Cate
+99,BYT2980,DS Pte/Sub,DY,FALSE,0,2024-07-19,1,2024-07-20,SC,KKH,Others,Follow-up at SOC,Other Cate
+46,LQC7985,DS Pte/Sub,DY,TRUE,0,2024-08-04,1,2024-08-05,PR,SNEC,Others,Follow-Up At Primary Care,Other Cate
+337,MpD0166,B2,IN,FALSE,0,2024-08-13,1,2024-08-14,SC,SGH,Others,Follow-up at SOC,Genitourinary disorders
+124,GEE8498,DS Pte/Sub,DY,TRUE,0,2024-09-24,1,2024-09-25,NR,NUH,Otorhinolaryngology,Follow-up at SOC,Genitourinary disorders
+333,spN1306,DS Pte/Sub,DY,TRUE,-,2024-08-14,1,2024-08-15,SC,KTPH,Otorhinolaryngology,Discharged,Cardiovascular disease
+67,pcn2893,C,IN,TRUE,-,2024-07-16,1,2024-07-17,SC,NTFGH,General Medicine,Follow-up at SOC,Other Cate
+410,YnQ0981,B2,IN,FALSE,0,2024-09-02,1,2024-09-03,SC,SNEC,Ophthalmology,Follow-up at SOC,Cardiovascular disease
+15,kHQ6450,C,IN,TRUE,0,2024-08-08,1,2024-08-09,SC,SGH,Others,Follow-up at SOC,Other Cate
+95,YMD8052,DS Pte/Sub,DY,FALSE,-,2024-07-20,1,2024-07-21,SC,KKH,Ophthalmology,Discharged,Digestive disease
+79,Pff1165,DS Pte/Sub,DY,FALSE,0,2024-07-29,1,2024-07-30,SC,NUH,Others,Follow-up at SOC,Other Cate
+102,Urb3095,C,IN,TRUE,-,2024-08-15,1,2024-08-16,SC,SGH,Others,Follow-up at SOC,Other Cate
+297,dlV1160,B1,IN,FALSE,0,2024-07-04,1,2024-07-05,SC,NUH,Others,Discharged,Other Cate
+498,EEh1295,DS Pte/Sub,DY,TRUE,3,2024-09-02,1,2024-09-03,PR,SNEC,Others,Follow-up at SOC,Other Cate
+118,npb7632,DS Pte/Sub,DY,TRUE,0,2024-07-30,1,2024-07-31,SC,TTSH,Others,Follow-up at SOC,Cardiovascular disease
+404,Fog5915,B2,IN,TRUE,0,2024-08-02,1,2024-08-03,SC,SGH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+98,qkL5061,B2,IN,TRUE,-,2024-07-26,1,2024-07-27,SC,SGH,Otorhinolaryngology,Follow-up at SOC,Neurological and sense disorders
+367,wQe3429,B1,IN,FALSE,0,2024-07-15,1,2024-07-16,SC,SKH,Others,Discharged,Digestive disease
+180,jjb9078,B2,IN,TRUE,-,2024-08-29,1,2024-08-30,SC,CGH,Others,Others/Step-down care,Other Cate
+238,Tup6598,C,IN,TRUE,0,2024-09-25,1,2024-09-26,SC,AH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+384,oIj7122,B2,IN,FALSE,-,2024-08-18,1,2024-08-19,SC,CGH,Others,Discharged,Other Cate
+140,nwr3747,DS Pte/Sub,DY,TRUE,3,2024-08-06,1,2024-08-07,SC,TTSH,General Surgery,Follow-up at SOC,Neurological and sense disorders
+169,WLg8776,DS Pte/Sub,DY,TRUE,2,2024-09-15,1,2024-09-16,SC,NTFGH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+426,UJO0384,DS Pte/Sub,DY,FALSE,-,2024-09-01,1,2024-09-02,SC,CGH,Others,Follow-up at SOC,Other Cate
+100,afc8878,C,IN,FALSE,0,2024-08-03,1,2024-08-04,NR,NTFGH,Others,Discharged,Other Cate
+261,UEF1474,C,IN,FALSE,-,2024-08-14,1,2024-08-15,SC,NTFGH,General Surgery,Follow-up at SOC,Digestive disease
+493,nja1839,DS Pte/Sub,DY,TRUE,3,2024-07-01,1,2024-07-02,SC,KKH,General Surgery,Follow-up at SOC,Neurological and sense disorders
+157,BDs4584,B2,IN,FALSE,-,2024-09-02,1,2024-09-03,SC,KKH,Others,Follow-up at SOC,Other Cate
+387,xLv1377,DS Pte/Sub,DY,FALSE,0,2024-09-09,1,2024-09-10,SC,NUH,Others,Follow-up at SOC,Other Cate
+265,cdE1570,DS Pte/Sub,DY,FALSE,0,2024-08-17,1,2024-08-18,SC,AH,General Surgery,Follow-up at SOC,Other Cate
+305,hlg0004,C,IN,TRUE,0,2024-09-15,1,2024-09-16,SC,SGH,Others,Follow-up at SOC,Cardiovascular disease
+64,YCf1793,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,SC,KKH,General Surgery,Follow-up at SOC,Other Cate
+317,rNA5292,DS Pte/Sub,DY,TRUE,-,2024-09-06,1,2024-09-07,SC,TTSH,Others,Follow-up at SOC,Other Cate
+169,UxE5407,B2,IN,FALSE,0,2024-09-14,1,2024-09-15,SC,SKH,Others,Follow-Up At Primary Care,Other Cate
+8,HqJ3431,DS Pte/Sub,DY,FALSE,0,2024-07-10,1,2024-07-11,SC,TTSH,Others,Follow-up at SOC,Other Cate
+135,YdD3146,DS Pte/Sub,DY,FALSE,4,2024-08-10,1,2024-08-11,NR,TTSH,Others,Follow-up at SOC,III-defined diseases
+404,OPp1858,B2,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,NUH,Ophthalmology,Follow-up at SOC,Cardiovascular disease
+243,SoP0839,A,IN,FALSE,0,2024-08-31,1,2024-09-01,PR,TTSH,Others,Follow-up at SOC,Other Cate
+252,jEn7247,DS Pte/Sub,DY,FALSE,2,2024-07-18,1,2024-07-19,SC,NUH,Others,Follow-up at SOC,Neurological and sense disorders
+177,waX3018,C,IN,FALSE,-,2024-07-10,1,2024-07-11,PR,TTSH,General Surgery,Follow-up at SOC,Neurological and sense disorders
+162,jkZ2111,A,IN,FALSE,0,2024-09-16,1,2024-09-17,SC,NUH,Others,Discharged,Neurological and sense disorders
+356,yKd0491,DS Pte/Sub,DY,FALSE,-,2024-08-23,1,2024-08-24,SC,KKH,Others,Follow-up at SOC,Digestive disease
+328,lqu6705,A,IN,FALSE,-,2024-08-28,1,2024-08-29,SC,KKH,Others,Follow-up at SOC,Other Cate
+487,DVy4570,DS Pte/Sub,DY,FALSE,0,2024-09-07,1,2024-09-08,SC,KTPH,Ophthalmology,Follow-up at SOC,Cardiovascular disease
+399,qgl4837,DS Pte/Sub,DY,FALSE,0,2024-08-03,1,2024-08-04,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+233,DGF8759,B2,IN,FALSE,-,2024-08-26,1,2024-08-27,SC,NHC,General Medicine,Follow-up at SOC,Other Cate
+117,qcW3996,C,IN,FALSE,0,2024-07-04,1,2024-07-05,SC,TTSH,General Surgery,Follow-up at SOC,Other Cate
+453,Sxr7533,DS Pte/Sub,DY,TRUE,0,2024-09-13,1,2024-09-14,SC,NTFGH,General Medicine,Follow-up at SOC,III-defined diseases
+17,CPV7606,DS Pte/Sub,DY,FALSE,-,2024-07-02,1,2024-07-03,PR,SGH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+132,hlx1594,DS Pte/Sub,DY,FALSE,-,2024-09-20,1,2024-09-21,SC,NUH,Ophthalmology,Follow-up at SOC,Other Cate
+77,PNP1234,C,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Cardiovascular disease
+396,fXK3283,DS Pte/Sub,DY,FALSE,0,2024-07-31,60,2024-09-29,PR,NUH,Others,Follow-up at SOC,Neurological and sense disorders
+368,UJN9278,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,SC,NUH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+350,KVa4593,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,SC,SNEC,Others,Follow-up at SOC,Other Cate
+14,OUI4060,C,IN,FALSE,2,2024-09-08,5,2024-09-13,SC,KKH,Others,Follow-up at SOC,III-defined diseases
+68,QyD8148,C,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,KTPH,Others,Follow-up at SOC,Other Cate
+242,nqz1509,DS Pte/Sub,DY,FALSE,0,2024-09-01,40,2024-10-11,SC,CGH,General Medicine,Follow-up at SOC,Genitourinary disorders
+326,CZF5382,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+41,lIu4203,DS Pte/Sub,DY,FALSE,3,2024-09-08,5,2024-09-13,SC,NUH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+33,Qsd9927,DS Pte/Sub,DY,TRUE,-,2024-07-31,60,2024-09-29,NR,NTFGH,General Medicine,Discharged,Other Cate
+295,JTw2720,C,IN,FALSE,-,2024-09-01,40,2024-10-11,NR,AH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+37,SGy6734,C,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,SGH,General Medicine,Follow-up at SOC,Other Cate
+372,Zjp1804,B2,IN,TRUE,0,2024-09-08,5,2024-09-13,PR,SGH,General Surgery,Discharged,Other Cate
+73,QDD5604,B2,IN,FALSE,0,2024-07-31,60,2024-09-29,PR,KTPH,Others,Follow-up at SOC,Other Cate
+241,bOW3392,DS Pte/Sub,DY,TRUE,3,2024-09-01,40,2024-10-11,SC,AH,Others,Follow-up at SOC,Neurological and sense disorders
+218,oNC6695,C,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,TTSH,Others,Discharged,Other Cate
+134,wSj3899,A,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,CGH,General Medicine,Follow-up at SOC,Other Cate
+284,YCq1788,B2,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,CGH,General Surgery,Follow-up at SOC,Other Cate
+264,gUq1626,C,IN,FALSE,3,2024-09-01,40,2024-10-11,SC,SGH,General Medicine,Follow-up at SOC,Other Cate
+145,tad4046,A,IN,TRUE,0,2024-08-12,1,2024-08-13,SC,KKH,Ophthalmology,Follow-up at SOC,Other Cate
+491,TAv8170,C,IN,TRUE,-,2024-08-05,3,2024-08-08,PR,CGH,General Medicine,Follow-up at SOC,Cardiovascular disease
+70,BEo1664,DS Pte/Sub,DY,FALSE,1,2024-07-02,58,2024-08-29,SC,TTSH,Ophthalmology,Follow-up at SOC,Neurological and sense disorders
+301,CnQ7398,DS Pte/Sub,DY,FALSE,0,2024-08-03,64,2024-10-06,SC,NUH,General Surgery,Follow-up at SOC,Cardiovascular disease
+115,qaD9815,C,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,NHC,General Medicine,Discharged,Other Cate
+124,eXp7017,B1,IN,FALSE,-,2024-09-08,5,2024-09-13,NR,SGH,General Medicine,Follow-up at SOC,Other Cate
+491,nhR3119,C,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,TTSH,Others,Follow-up at SOC,Other Cate
+90,psZ5347,DS Pte/Sub,DY,FALSE,-,2024-09-01,40,2024-10-11,NR,KKH,Orthopaedic Surgery,Others/Step-down care,III-defined diseases
+195,icS4246,C,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,KKH,Others,Follow-up at SOC,Other Cate
+346,vzQ6695,B2,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,CGH,Others,Discharged,Other Cate
+265,Lkq4287,C,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,CGH,Others,Follow-up at SOC,Other Cate
+413,AdC6833,C,IN,FALSE,3,2024-09-01,40,2024-10-11,SC,TTSH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+308,nWR5105,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,SC,TTSH,Others,Follow-up at SOC,Other Cate
+415,uWW5814,A,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,KTPH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+390,bzA3095,DS Pte/Sub,DY,FALSE,2,2024-07-31,60,2024-09-29,SC,KTPH,Others,Follow-up at SOC,Cardiovascular disease
+102,SGh1639,C,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,SKH,General Medicine,Follow-Up At Primary Care,Other Cate
+411,XVJ0379,C,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,CGH,Others,Follow-up at SOC,Other Cate
+500,ZLO3243,DS Pte/Sub,DY,FALSE,0,2024-09-08,5,2024-09-13,SC,CGH,Ophthalmology,Follow-up at SOC,III-defined diseases
+362,eLi3403,C,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,KKH,Ophthalmology,Discharged,Other Cate
+462,CNr0005,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,SC,NUH,General Surgery,Follow-up at SOC,Other Cate
+198,Zgl0790,C,IN,TRUE,4,2024-09-20,1,2024-09-21,SC,CGH,Others,Discharged,Other Cate
+229,xri8762,C,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,SGH,General Surgery,Others,Other Cate
+358,vXR2846,B2,IN,FALSE,-,2024-07-31,60,2024-09-29,NR,CGH,General Medicine,Follow-up at SOC,Other Cate
+15,Pfv6083,B2,IN,TRUE,0,2024-09-01,40,2024-10-11,NR,CGH,Others,Follow-up at SOC,Digestive disease
+144,QoI2449,B1,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,SGH,Others,Follow-up at SOC,Other Cate
+85,edW3909,DS Pte/Sub,DY,FALSE,4,2024-09-08,5,2024-09-13,SC,KTPH,Ophthalmology,Discharged,Other Cate
+160,siX1258,DS Pte/Sub,DY,TRUE,-,2024-07-31,60,2024-09-29,PR,NUH,General Medicine,Discharged,Other Cate
+356,DsZ4068,C,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,TTSH,Others,Others,Genitourinary disorders
+415,KHk9552,DS Pte/Sub,DY,TRUE,-,2024-09-20,1,2024-09-21,SC,NUH,Others,Follow-up at SOC,Digestive disease
+401,MCy8704,C,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,TTSH,Others,Follow-up at SOC,Other Cate
+473,FtF3449,DS Pte/Sub,DY,FALSE,-,2024-07-31,60,2024-09-29,SC,SGH,General Medicine,Others,Neurological and sense disorders
+261,srF1022,B2,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+44,YYW1052,B1,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,SKH,Ophthalmology,Follow-up at SOC,Other Cate
+325,ezL9202,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,SC,KKH,Others,Follow-up at SOC,Other Cate
+141,uYV1294,C,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,CGH,Ophthalmology,Follow-up at SOC,Digestive disease
+429,ssD8443,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,TTSH,General Surgery,Others/Step-down care,Other Cate
+403,UJD8886,DS Pte/Sub,DY,TRUE,-,2024-09-20,1,2024-09-21,SC,TTSH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+415,tTC8931,DS Pte/Sub,DY,TRUE,0,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Digestive disease
+144,jgI4966,ICU,IN,FALSE,2,2024-07-31,60,2024-09-29,SC,SNEC,Otorhinolaryngology,Follow-up at SOC,Other Cate
+477,AJZ5739,DS Pte/Sub,DY,FALSE,-,2024-09-01,40,2024-10-11,SC,CGH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+410,yXa9558,B1,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,NTFGH,Otorhinolaryngology,Discharged,Other Cate
+88,Com6742,C,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Digestive disease
+426,foS5236,DS Pte/Sub,DY,TRUE,0,2024-07-31,60,2024-09-29,SC,TTSH,Others,Others/Step-down care,Other Cate
+477,Ipk3667,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,SC,SGH,Others,Follow-up at SOC,Neurological and sense disorders
+234,jZb8130,A,IN,FALSE,-,2024-09-20,1,2024-09-21,NR,NUH,Otorhinolaryngology,Discharged,Cardiovascular disease
+133,EKI5425,DS Pte/Sub,DY,TRUE,0,2024-09-08,5,2024-09-13,SC,TTSH,Others,Follow-up at SOC,Digestive disease
+319,HTq3198,DS Pte/Sub,DY,TRUE,-,2024-07-31,60,2024-09-29,SC,SGH,General Medicine,Follow-up at SOC,Other Cate
+489,EFB7908,DS Pte/Sub,DY,TRUE,4,2024-09-01,40,2024-10-11,SC,CGH,Others,Follow-up at SOC,Other Cate
+255,NsD1346,B1,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,SGH,Orthopaedic Surgery,Follow-up at SOC,Neurological and sense disorders
+123,LQW4219,B2,IN,FALSE,2,2024-09-08,5,2024-09-13,SC,KKH,Others,Discharged,Other Cate
+409,zMB8774,A,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,SGH,Others,Discharged,Neurological and sense disorders
+373,rqA8100,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,SC,NUH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+374,Mtz4920,C,IN,FALSE,-,2024-09-20,1,2024-09-21,NR,CGH,Others,Follow-up at SOC,Other Cate
+420,rwh4703,B2+,IN,TRUE,-,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Other Cate
+474,CFG4694,B1,IN,TRUE,2,2024-07-31,60,2024-09-29,SC,TTSH,Others,Follow-up at SOC,Other Cate
+401,TbK8981,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,SC,SGH,Otorhinolaryngology,Others,Genitourinary disorders
+422,rAO4845,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,TTSH,General Medicine,Follow-up at SOC,Digestive disease
+459,wvt4940,C,IN,FALSE,0,2024-09-08,5,2024-09-13,PR,CGH,Others,Discharged,Digestive disease
+191,olw2035,B2,IN,FALSE,2,2024-07-31,60,2024-09-29,SC,CGH,General Surgery,Discharged,Other Cate
+476,Xmu4968,DS Pte/Sub,DY,FALSE,3,2024-09-01,40,2024-10-11,SC,CGH,General Surgery,Discharged,Genitourinary disorders
+395,msD0186,DS Pte/Sub,DY,TRUE,-,2024-09-20,1,2024-09-21,SC,SGH,Others,Discharged,Other Cate
+450,tfn0211,B1,IN,FALSE,3,2024-09-08,5,2024-09-13,PR,TTSH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+224,icg8789,DS Pte/Sub,DY,FALSE,-,2024-07-31,60,2024-09-29,SC,SGH,Others,Follow-up at SOC,Genitourinary disorders
+416,wqV0455,DS Pte/Sub,DY,FALSE,-,2024-09-01,40,2024-10-11,SC,AH,General Medicine,Discharged,Other Cate
+237,TJF7443,DS Pte/Sub,DY,TRUE,4,2024-09-20,1,2024-09-21,SC,KKH,Others,Follow-up at SOC,Other Cate
+223,rQv6487,B2,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,SNEC,Others,Follow-up at SOC,Other Cate
+133,LAg3953,B2,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,SGH,Others,Discharged,Other Cate
+394,sfV1455,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,NUH,Ophthalmology,Follow-up at SOC,Other Cate
+84,mDX6730,B1,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,KTPH,Ophthalmology,Others,Other Cate
+481,qMe7265,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,PR,NUH,Others,Follow-up at SOC,Other Cate
+132,XTT4742,C,IN,FALSE,0,2024-09-08,5,2024-09-13,NR,NUH,General Medicine,Discharged,Cardiovascular disease
+80,kDJ1609,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,SC,KKH,General Surgery,Follow-up at SOC,Genitourinary disorders
+77,oDD1613,C,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,NTFGH,Others,Discharged,Digestive disease
+23,fxV0845,B2,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,TTSH,Ophthalmology,Others,Other Cate
+458,Hvo0061,DS Pte/Sub,DY,TRUE,3,2024-07-31,60,2024-09-29,SC,NUH,Others,Others/Step-down care,Other Cate
+83,WeL5185,C,IN,FALSE,0,2024-09-01,40,2024-10-11,PR,NUH,Ophthalmology,Follow-up at SOC,Other Cate
+230,HBX8651,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,SC,SKH,Others,Follow-up at SOC,Other Cate
+165,tyo3949,B1,IN,TRUE,2,2024-09-08,5,2024-09-13,SC,SGH,Others,Discharged,III-defined diseases
+311,rjY2509,C,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,CGH,General Medicine,Discharged,Other Cate
+288,oIt5955,B2,IN,FALSE,2,2024-09-01,40,2024-10-11,SC,TTSH,General Surgery,Follow-up at SOC,Other Cate
+146,UeZ1759,C,IN,TRUE,0,2024-09-20,1,2024-09-21,PR,KKH,Others,Discharged,Other Cate
+117,dwc9899,B1,IN,TRUE,-,2024-09-08,5,2024-09-13,SC,SGH,Ophthalmology,Follow-up at SOC,Neurological and sense disorders
+393,fAV5092,C,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,NTFGH,Ophthalmology,Follow-up at SOC,Digestive disease
+347,ncg3191,B2,IN,TRUE,0,2024-09-01,40,2024-10-11,SC,CGH,Ophthalmology,Follow-up at SOC,Other Cate
+135,uLm6483,B2,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,NUH,Others,Follow-up at SOC,Cardiovascular disease
+2,qee7431,DS Pte/Sub,DY,TRUE,0,2024-09-08,5,2024-09-13,SC,NUH,General Surgery,Follow-up at SOC,Digestive disease
+201,cNg2268,DS Pte/Sub,DY,FALSE,0,2024-07-31,60,2024-09-29,SC,CGH,Orthopaedic Surgery,Discharged,Genitourinary disorders
+431,mGq4965,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,NR,NHC,General Surgery,Follow-up at SOC,Other Cate
+183,fWd9263,DS Pte/Sub,DY,TRUE,-,2024-09-20,1,2024-09-21,SC,TTSH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+364,FEs5427,C,IN,FALSE,2,2024-09-08,5,2024-09-13,SC,CGH,Orthopaedic Surgery,Others/Step-down care,III-defined diseases
+172,ncn2654,DS Pte/Sub,DY,FALSE,0,2024-07-31,60,2024-09-29,SC,CGH,Others,Others,Other Cate
+485,zRT0335,DS Pte/Sub,DY,FALSE,0,2024-09-01,40,2024-10-11,SC,TTSH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+346,JwD6432,DS Pte/Sub,DY,FALSE,4,2024-09-20,1,2024-09-21,SC,CGH,Others,Follow-up at SOC,Other Cate
+4,Vus8464,C,IN,TRUE,-,2024-09-08,5,2024-09-13,NR,CGH,General Medicine,Follow-up at SOC,Other Cate
+433,mYo5812,C,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,KKH,Others,Follow-up at SOC,Cardiovascular disease
+397,QHp4838,B2,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,SGH,Others,Discharged,Other Cate
+165,WRd8752,C,IN,TRUE,0,2024-09-20,1,2024-09-21,PR,CGH,Others,Follow-up at SOC,Cardiovascular disease
+160,egf6021,ICU,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,CGH,Ophthalmology,Discharged,Other Cate
+16,ODV5492,B2,IN,FALSE,0,2024-07-31,60,2024-09-29,PR,KKH,General Surgery,Discharged,Neurological and sense disorders
+308,lmH3811,C,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,TTSH,General Medicine,Discharged,Other Cate
+151,ikJ2324,C,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,SGH,Others,Follow-Up At Primary Care,Other Cate
+266,CeX9768,DS Pte/Sub,DY,TRUE,0,2024-09-08,5,2024-09-13,SC,NCC,Others,Follow-up at SOC,Other Cate
+497,krJ2507,B2,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,KTPH,Others,Follow-up at SOC,Genitourinary disorders
+150,IOt2100,C,IN,FALSE,0,2024-09-01,40,2024-10-11,PR,NUH,Others,Follow-up at SOC,Other Cate
+198,bHK1396,C,IN,FALSE,3,2024-09-20,1,2024-09-21,SC,TTSH,Ophthalmology,Follow-up at SOC,Other Cate
+74,Xme9065,DS Pte/Sub,DY,FALSE,4,2024-09-08,5,2024-09-13,SC,CGH,General Medicine,Follow-up at SOC,Other Cate
+452,VGB7296,B2+,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,NUH,Others,Follow-up at SOC,Other Cate
+307,hfS2358,DS Pte/Sub,DY,FALSE,4,2024-09-01,40,2024-10-11,SC,CGH,Others,Follow-up at SOC,Other Cate
+259,swG7690,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,SNEC,Others,Follow-up at SOC,III-defined diseases
+43,rfN3494,C,IN,TRUE,-,2024-09-08,5,2024-09-13,SC,TTSH,General Medicine,Follow-up at SOC,III-defined diseases
+25,hyI5290,DS Pte/Sub,DY,FALSE,0,2024-07-31,60,2024-09-29,SC,CGH,General Medicine,Discharged,Digestive disease
+471,QGk7082,B1,IN,TRUE,3,2024-09-01,40,2024-10-11,SC,TTSH,Others,Follow-up at SOC,III-defined diseases
+90,Vvj2995,C,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,SGH,General Medicine,Discharged,III-defined diseases
+378,ayB4062,C,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,KKH,Others,Follow-up at SOC,III-defined diseases
+232,xDH0017,C,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,SNEC,Others,Follow-up at SOC,Other Cate
+93,wCJ0847,C,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,SGH,Others,Follow-up at SOC,Other Cate
+161,LJd4567,A,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,SGH,Others,Follow-up at SOC,Genitourinary disorders
+417,qgt7649,DS Pte/Sub,DY,TRUE,0,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Other Cate
+430,Gjv8575,ICU,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,KKH,Others,Follow-up at SOC,Other Cate
+394,Nbr4260,C,IN,FALSE,4,2024-09-01,40,2024-10-11,SC,JMC,Ophthalmology,Follow-up at SOC,Other Cate
+423,TzQ4788,C,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,NUH,Others,Discharged,Other Cate
+143,Uul1749,C,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,KKH,Ophthalmology,Discharged,Cardiovascular disease
+121,FLU7287,B2,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,KTPH,Others,Follow-up at SOC,Digestive disease
+245,ZKI4748,DS Pte/Sub,DY,FALSE,-,2024-09-01,40,2024-10-11,SC,NTFGH,Others,Follow-up at SOC,Other Cate
+308,BjB3903,DS Pte/Sub,DY,FALSE,3,2024-09-20,1,2024-09-21,SC,TTSH,Others,Follow-up at SOC,Other Cate
+246,PCF4784,C,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,SGH,Others,Discharged,Other Cate
+287,ovO2962,DS Pte/Sub,DY,TRUE,0,2024-07-31,60,2024-09-29,SC,SNEC,Others,Discharged,Other Cate
+295,YGx5610,DS Pte/Sub,DY,FALSE,0,2024-09-01,40,2024-10-11,SC,SGH,General Surgery,Follow-up at SOC,Other Cate
+61,LLw2582,C,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+183,wWh7814,B2,IN,FALSE,2,2024-09-08,5,2024-09-13,SC,SNEC,General Medicine,Follow-up at SOC,Other Cate
+207,ygp4446,DS Pte/Sub,DY,FALSE,-,2024-07-31,60,2024-09-29,SC,CGH,General Surgery,Discharged,Other Cate
+165,tzp8537,C,IN,FALSE,0,2024-09-01,40,2024-10-11,NR,CGH,General Surgery,Discharged,Neurological and sense disorders
+205,foD3867,B2,IN,FALSE,4,2024-09-20,1,2024-09-21,SC,SGH,Others,Discharged,Other Cate
+439,lhh7334,B2,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Cardiovascular disease
+35,mMM0475,DS Pte/Sub,DY,TRUE,0,2024-07-31,60,2024-09-29,SC,NTFGH,Otorhinolaryngology,Discharged,Cardiovascular disease
+223,aXX3220,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,NUH,Others,Discharged,Other Cate
+489,CSI9756,B2,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,KKH,General Medicine,Follow-up at SOC,Cardiovascular disease
+150,sxN1876,A,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Other Cate
+165,Pee2205,B2,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,AH,General Medicine,Others,Other Cate
+122,oTZ9049,DS Pte/Sub,DY,FALSE,-,2024-09-01,40,2024-10-11,SC,CGH,General Medicine,Discharged,Other Cate
+249,PzO9510,B1,IN,FALSE,2,2024-09-20,1,2024-09-21,SC,NUH,General Medicine,Follow-up at SOC,Other Cate
+408,PWn0840,B2,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,CGH,Others,Discharged,Other Cate
+131,QXv6359,DS Pte/Sub,DY,TRUE,-,2024-07-31,60,2024-09-29,SC,KTPH,General Surgery,Follow-up at SOC,Digestive disease
+188,Oiu3903,C,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,TTSH,General Medicine,Discharged,Other Cate
+163,RkC5435,B2,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,KTPH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+424,aUW9573,B1,IN,FALSE,0,2024-09-08,5,2024-09-13,PR,AH,Otorhinolaryngology,Discharged,Other Cate
+208,mEU3766,C,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,NUH,Others,Follow-up at SOC,Other Cate
+169,SyT4425,B2,IN,FALSE,3,2024-09-01,40,2024-10-11,PR,KKH,General Medicine,Follow-up at SOC,Other Cate
+251,sNS4432,C,IN,FALSE,4,2024-09-20,1,2024-09-21,SC,AH,General Surgery,Discharged,Other Cate
+9,fLy2704,DS Pte/Sub,DY,FALSE,-,2024-09-08,5,2024-09-13,SC,NCC,Others,Follow-up at SOC,Other Cate
+196,tEA9551,B1,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,CGH,General Medicine,Follow-up at SOC,Other Cate
+241,eAN0512,B1,IN,TRUE,-,2024-09-01,40,2024-10-11,NR,KKH,General Medicine,Discharged,Cardiovascular disease
+414,XEh6433,DS Pte/Sub,DY,FALSE,4,2024-09-20,1,2024-09-21,SC,CGH,Others,Follow-up at SOC,Cardiovascular disease
+93,mPN4826,DS Pte/Sub,DY,TRUE,4,2024-09-08,5,2024-09-13,SC,TTSH,Ophthalmology,Follow-up at SOC,III-defined diseases
+359,GbB5835,C,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,AH,General Surgery,Follow-up at SOC,Digestive disease
+362,NxY6506,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,SKH,Ophthalmology,Discharged,Genitourinary disorders
+48,IUX8287,DS Pte/Sub,DY,FALSE,-,2024-09-20,1,2024-09-21,SC,NUH,Otorhinolaryngology,Follow-up at SOC,III-defined diseases
+293,viJ9311,ICU,IN,FALSE,4,2024-09-08,5,2024-09-13,SC,CGH,Ophthalmology,Follow-up at SOC,Digestive disease
+434,MvO0511,C,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,CGH,General Surgery,Discharged,Other Cate
+395,MeB6097,C,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,TTSH,General Medicine,Follow-Up At Primary Care,Other Cate
+121,fbm7775,DS Pte/Sub,DY,TRUE,2,2024-09-20,1,2024-09-21,SC,NUH,Ophthalmology,Follow-up at SOC,Neurological and sense disorders
+101,Ifk1303,DS Pte/Sub,DY,FALSE,0,2024-09-08,5,2024-09-13,SC,KTPH,Others,Discharged,Digestive disease
+136,JgD4223,DS Pte/Sub,DY,FALSE,3,2024-07-31,60,2024-09-29,NR,SGH,General Surgery,Discharged,Other Cate
+416,rOY4656,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,SC,AH,Others,Follow-up at SOC,Cardiovascular disease
+203,fhq7746,B2,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,NTFGH,General Medicine,Follow-up at SOC,Other Cate
+413,paS1363,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,SC,NUH,Orthopaedic Surgery,Follow-Up At Primary Care,Genitourinary disorders
+423,vzh9303,B1,IN,FALSE,4,2024-07-31,60,2024-09-29,SC,NUH,Others,Follow-up at SOC,Digestive disease
+314,cvE5619,DS Pte/Sub,DY,FALSE,-,2024-09-01,40,2024-10-11,NR,TTSH,Others,Follow-up at SOC,Digestive disease
+109,WLm3762,B2,IN,FALSE,3,2024-09-20,1,2024-09-21,SC,KTPH,Others,Follow-up at SOC,III-defined diseases
+215,utx8986,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,SC,KTPH,General Surgery,Discharged,Digestive disease
+392,dEV1317,B1,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,NHC,Others,Follow-up at SOC,Other Cate
+97,uZZ1692,A,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,SGH,Others,Follow-up at SOC,Digestive disease
+127,wKN6282,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,NR,CGH,General Surgery,Follow-up at SOC,Other Cate
+309,Rjr7819,B2,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,KKH,Others,Follow-up at SOC,Digestive disease
+401,GPd7354,DS Pte/Sub,DY,FALSE,-,2024-07-31,60,2024-09-29,SC,CGH,Otorhinolaryngology,Follow-up at SOC,Digestive disease
+203,JDU1686,A,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,NUH,Others,Follow-up at SOC,Other Cate
+21,OPm4241,B1,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,SNEC,Others,Follow-up at SOC,Other Cate
+21,lNq5994,DS Pte/Sub,DY,TRUE,0,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Other Cate
+333,Ipl9887,B2,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,NUH,Others,Discharged,Cardiovascular disease
+67,LuH9968,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,CGH,Others,Follow-up at SOC,Digestive disease
+433,sZH8044,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,PR,TTSH,Others,Follow-Up At Primary Care,Cardiovascular disease
+165,glF2351,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,SC,CGH,Otorhinolaryngology,Follow-up at SOC,III-defined diseases
+363,dNe4135,B2,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,NUH,Others,Follow-Up At Primary Care,Neurological and sense disorders
+394,vPN3006,C,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,TTSH,Others,Follow-up at SOC,Neurological and sense disorders
+158,LBN6673,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,NR,CGH,Others,Follow-up at SOC,Digestive disease
+110,Fzi5894,A,IN,FALSE,3,2024-09-08,5,2024-09-13,PR,SGH,Otorhinolaryngology,Discharged,Other Cate
+160,bWy0388,DS Pte/Sub,DY,FALSE,-,2024-07-31,60,2024-09-29,SC,KTPH,Otorhinolaryngology,Follow-up at SOC,Genitourinary disorders
+319,oPl2803,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,NR,NUH,Others,Follow-up at SOC,Other Cate
+107,NeO5733,C,IN,TRUE,0,2024-09-20,1,2024-09-21,PR,NCC,Ophthalmology,Follow-up at SOC,Other Cate
+243,Wzz1165,A,IN,TRUE,0,2024-09-08,5,2024-09-13,NR,CGH,General Surgery,Discharged,Other Cate
+235,GEQ8541,DS Pte/Sub,DY,FALSE,2,2024-07-31,60,2024-09-29,SC,NUH,Others,Follow-up at SOC,Other Cate
+362,Lor7864,B2,IN,TRUE,1,2024-09-01,40,2024-10-11,PR,NUH,Ophthalmology,Follow-up at SOC,Other Cate
+376,rch5280,C,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,CGH,Others,Follow-up at SOC,Other Cate
+261,vhu4007,B2,IN,FALSE,2,2024-09-08,5,2024-09-13,SC,TTSH,Others,Follow-up at SOC,Other Cate
+58,LjR6408,B1,IN,TRUE,0,2024-07-31,60,2024-09-29,NR,NTFGH,Others,Follow-up at SOC,Other Cate
+239,LoM5184,B2,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,SGH,Others,Follow-up at SOC,Cardiovascular disease
+31,FCz6388,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,NUH,Otorhinolaryngology,Others,Cardiovascular disease
+394,HaJ2777,B2,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,KTPH,General Surgery,Follow-up at SOC,Neurological and sense disorders
+185,iPg1283,C,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,KKH,Otorhinolaryngology,Follow-up at SOC,Neurological and sense disorders
+446,UZZ4133,C,IN,TRUE,0,2024-09-01,40,2024-10-11,SC,SNEC,General Medicine,Discharged,III-defined diseases
+232,fbV9890,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,SC,SGH,Ophthalmology,Follow-up at SOC,Other Cate
+447,Ysm6306,B2,IN,TRUE,-,2024-09-08,5,2024-09-13,PR,NTFGH,Others,Follow-up at SOC,Other Cate
+83,gyT3023,DS Pte/Sub,DY,FALSE,0,2024-07-31,60,2024-09-29,SC,NUH,Ophthalmology,Follow-up at SOC,Other Cate
+297,Srl3411,C,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,KTPH,Ophthalmology,Follow-up at SOC,Other Cate
+240,lkE7432,C,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,KKH,Others,Follow-up at SOC,Other Cate
+491,WnW6053,B1,IN,FALSE,-,2024-09-08,5,2024-09-13,PR,SGH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+37,OHx0638,DS Pte/Sub,DY,FALSE,0,2024-07-31,60,2024-09-29,SC,NUH,General Medicine,Follow-up at SOC,Other Cate
+396,RMM6629,B1,IN,TRUE,4,2024-09-01,40,2024-10-11,SC,SGH,General Surgery,Follow-up at SOC,Other Cate
+297,dUO6201,C,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,SGH,General Medicine,Follow-up at SOC,Other Cate
+87,HVE7202,DS Pte/Sub,DY,FALSE,0,2024-09-08,5,2024-09-13,SC,NCC,Ophthalmology,Others,Neurological and sense disorders
+306,CWd6054,C,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,SGH,Others,Follow-Up At Primary Care,Other Cate
+295,JQr2368,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,SC,SGH,Others,Follow-up at SOC,Genitourinary disorders
+54,SaV3632,B2,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,KTPH,Otorhinolaryngology,Follow-up at SOC,Neurological and sense disorders
+438,KYq1388,B2,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,KTPH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+472,WFP1050,B2,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,NTFGH,General Surgery,Others,Other Cate
+395,amZ7242,DS Pte/Sub,DY,TRUE,2,2024-09-01,40,2024-10-11,SC,KKH,Others,Follow-up at SOC,Genitourinary disorders
+397,gky6393,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,KTPH,Others,Follow-up at SOC,Other Cate
+493,kKU6239,B2,IN,TRUE,-,2024-09-08,5,2024-09-13,NR,SGH,Ophthalmology,Follow-up at SOC,Cardiovascular disease
+332,xEO8290,DS Pte/Sub,DY,FALSE,-,2024-07-31,60,2024-09-29,SC,NUH,General Medicine,Others,Other Cate
+193,MNL6064,DS Pte/Sub,DY,FALSE,-,2024-09-01,40,2024-10-11,PR,NUH,Orthopaedic Surgery,Follow-up at SOC,III-defined diseases
+119,uIW0126,B2,IN,TRUE,0,2024-09-20,1,2024-09-21,PR,TTSH,Others,Follow-up at SOC,III-defined diseases
+286,wQB8682,DS Pte/Sub,DY,FALSE,0,2024-09-08,5,2024-09-13,SC,CGH,Others,Discharged,Other Cate
+144,RGb7107,B2+,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,TTSH,Others,Follow-up at SOC,Other Cate
+23,XST2977,C,IN,FALSE,0,2024-09-01,40,2024-10-11,PR,TTSH,Others,Follow-up at SOC,III-defined diseases
+349,zey0600,DS Pte/Sub,DY,TRUE,-,2024-09-20,1,2024-09-21,PR,CGH,General Surgery,Follow-up at SOC,Other Cate
+377,HDD6969,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,SC,KKH,Others,Discharged,Digestive disease
+446,BeV8342,C,IN,FALSE,3,2024-07-31,60,2024-09-29,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+28,lOV5705,C,IN,FALSE,-,2024-09-01,40,2024-10-11,PR,KKH,Others,Follow-up at SOC,Other Cate
+381,TeK5220,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,NR,TTSH,Ophthalmology,Follow-up at SOC,Other Cate
+270,Rsz2324,DS Pte/Sub,DY,FALSE,2,2024-09-08,5,2024-09-13,SC,KTPH,Others,Follow-up at SOC,Digestive disease
+480,bBh5148,C,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,TTSH,General Surgery,Follow-up at SOC,Digestive disease
+421,rPx7260,A,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,KKH,Others,Follow-up at SOC,Other Cate
+497,BXX7300,C,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,KTPH,Others,Follow-Up At Primary Care,Digestive disease
+281,LRl2787,C,IN,TRUE,-,2024-09-08,5,2024-09-13,PR,CGH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+484,mmQ9893,DS Pte/Sub,DY,TRUE,0,2024-07-31,60,2024-09-29,SC,NUH,Ophthalmology,Follow-up at SOC,Other Cate
+17,NSv8559,A,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,SGH,Others,Follow-up at SOC,Other Cate
+258,mAu1964,B1,IN,TRUE,4,2024-09-20,1,2024-09-21,PR,KKH,General Surgery,Follow-up at SOC,Other Cate
+172,mDw4831,B2,IN,TRUE,3,2024-09-08,5,2024-09-13,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+159,eVw6895,DS Pte/Sub,DY,TRUE,-,2024-07-31,60,2024-09-29,NR,TTSH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+50,XxE3272,C,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,ADMIRALTY MEDICAL CENTRE,General Medicine,Follow-up at SOC,Digestive disease
+438,Vjd4044,B1,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,NCC,Others,Follow-up at SOC,Other Cate
+163,cmR7874,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,PR,NUH,Others,Others,Cardiovascular disease
+421,eNH9548,A,IN,TRUE,-,2024-07-31,60,2024-09-29,PR,NUH,Others,Follow-up at SOC,Other Cate
+353,DAy2780,B2,IN,FALSE,2,2024-09-01,40,2024-10-11,SC,NUH,General Medicine,Follow-up at SOC,III-defined diseases
+122,YGf7711,B1,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,TTSH,Orthopaedic Surgery,Discharged,Other Cate
+278,EqT7716,A,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,TTSH,Others,Follow-up at SOC,Other Cate
+389,kQU7198,DS Pte/Sub,DY,FALSE,-,2024-07-31,60,2024-09-29,SC,CGH,Others,Follow-up at SOC,Other Cate
+418,yZy1306,A,IN,TRUE,2,2024-09-01,40,2024-10-11,SC,SGH,Ophthalmology,Discharged,Other Cate
+234,tFS9803,DS Pte/Sub,DY,FALSE,-,2024-09-20,1,2024-09-21,SC,CGH,Others,Others,Other Cate
+24,JrW0222,B2,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Digestive disease
+79,JBJ3008,C,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,SNEC,Others,Follow-up at SOC,Neurological and sense disorders
+427,wos1845,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,NUH,Ophthalmology,Discharged,Other Cate
+423,pUi2128,B2,IN,TRUE,2,2024-09-20,1,2024-09-21,SC,NUH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+286,NlI6766,C,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Digestive disease
+152,mXE1409,B1,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,SGH,Others,Discharged,Other Cate
+252,ufe8309,B2,IN,TRUE,0,2024-09-01,40,2024-10-11,SC,SNEC,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+419,RCD7956,B1,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,SNEC,Others,Follow-up at SOC,Other Cate
+122,vuU6280,C,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,TTSH,General Surgery,Discharged,Other Cate
+422,brx1232,B2,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,TTSH,General Surgery,Follow-up at SOC,Other Cate
+305,ucG4994,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,SC,SGH,Ophthalmology,Follow-up at SOC,Other Cate
+419,vvz9507,C,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,KKH,General Surgery,Follow-Up At Primary Care,III-defined diseases
+464,DMT1270,B1,IN,FALSE,2,2024-09-08,5,2024-09-13,SC,CGH,Others,Follow-up at SOC,Genitourinary disorders
+293,jkl7434,A,IN,TRUE,3,2024-07-31,60,2024-09-29,PR,SNEC,Ophthalmology,Follow-up at SOC,Other Cate
+73,xnD6944,C,IN,TRUE,0,2024-09-01,40,2024-10-11,SC,NUH,General Medicine,Discharged,Cardiovascular disease
+220,VBb0011,C,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,KTPH,Ophthalmology,Discharged,Cardiovascular disease
+444,Xye4513,C,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,SNEC,Others,Follow-up at SOC,Other Cate
+161,Xus9256,DS Pte/Sub,DY,TRUE,-,2024-07-31,60,2024-09-29,SC,NUH,Others,Follow-up at SOC,Other Cate
+172,aZS8919,DS Pte/Sub,DY,FALSE,0,2024-09-01,40,2024-10-11,SC,KTPH,Others,Others/Step-down care,Digestive disease
+94,cpw7501,DS Pte/Sub,DY,FALSE,4,2024-09-20,1,2024-09-21,SC,KKH,Others,Discharged,Other Cate
+299,tJF9604,C,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Genitourinary disorders
+418,dvS4241,C,IN,TRUE,2,2024-07-31,60,2024-09-29,SC,SGH,General Surgery,Follow-up at SOC,Cardiovascular disease
+394,hJU0922,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,KTPH,Others,Follow-up at SOC,Neurological and sense disorders
+13,Ogf9120,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,SGH,Others,Discharged,Cardiovascular disease
+190,uzr3970,A,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Neurological and sense disorders
+274,xpx5349,C,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,SGH,Ophthalmology,Follow-up at SOC,Other Cate
+438,RWr7069,C,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,NUH,Others,Follow-up at SOC,Digestive disease
+47,PpW3414,B2,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,SGH,General Medicine,Others/Step-down care,Digestive disease
+441,VHi4411,C,IN,FALSE,-,2024-09-08,5,2024-09-13,PR,SGH,Others,Follow-up at SOC,Digestive disease
+319,oON2689,B2,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,SGH,Others,Follow-up at SOC,Other Cate
+195,ers5505,B2,IN,FALSE,-,2024-09-01,40,2024-10-11,NR,NUH,Others,Follow-up at SOC,Other Cate
+382,nob6037,DS Pte/Sub,DY,FALSE,4,2024-09-20,1,2024-09-21,SC,KKH,General Surgery,Others,Other Cate
+176,xTb2632,B2,IN,FALSE,2,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Other Cate
+256,mYI9310,C,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,NUH,General Medicine,Follow-Up At Primary Care,Neurological and sense disorders
+263,BLp8162,DS Pte/Sub,DY,FALSE,4,2024-09-01,40,2024-10-11,PR,SKH,Ophthalmology,Follow-up at SOC,Neurological and sense disorders
+154,cww2158,C,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,CGH,General Medicine,Discharged,Genitourinary disorders
+200,kFt1589,C,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,CGH,Others,Follow-up at SOC,Other Cate
+300,buI3759,DS Pte/Sub,DY,TRUE,0,2024-07-31,60,2024-09-29,SC,CGH,Others,Discharged,Other Cate
+81,lnU6450,C,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,KKH,General Medicine,Follow-up at SOC,Digestive disease
+198,ubq2652,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,PR,SGH,Otorhinolaryngology,Follow-up at SOC,Neurological and sense disorders
+317,ZRp9257,DS Pte/Sub,DY,FALSE,-,2024-09-08,5,2024-09-13,SC,CGH,Others,Discharged,Digestive disease
+60,gmo9335,DS Pte/Sub,DY,TRUE,1,2024-07-31,60,2024-09-29,SC,KTPH,Others,Discharged,Cardiovascular disease
+479,ZnK6900,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+389,xqH0782,DS Pte/Sub,DY,FALSE,3,2024-09-20,1,2024-09-21,SC,NUH,General Medicine,Follow-up at SOC,Genitourinary disorders
+373,sSX4113,DS Pte/Sub,DY,FALSE,-,2024-09-08,5,2024-09-13,SC,KKH,Others,Others/Step-down care,III-defined diseases
+138,SvF9382,DS Pte/Sub,DY,TRUE,-,2024-07-31,60,2024-09-29,SC,TTSH,Others,Follow-up at SOC,III-defined diseases
+439,xck1128,DS Pte/Sub,DY,FALSE,-,2024-09-01,40,2024-10-11,SC,TTSH,Others,Follow-up at SOC,Neurological and sense disorders
+80,aok9470,B2,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,KTPH,Others,Follow-up at SOC,Other Cate
+423,bYv8683,C,IN,FALSE,0,2024-09-08,5,2024-09-13,PR,KKH,General Surgery,Follow-up at SOC,Other Cate
+290,wNA4076,DS Pte/Sub,DY,TRUE,-,2024-07-31,60,2024-09-29,PR,KTPH,Ophthalmology,Follow-Up At Primary Care,Other Cate
+305,CsT3166,C,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,KTPH,General Medicine,Follow-up at SOC,Other Cate
+414,HWi4341,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,TTSH,General Surgery,Others/Step-down care,Other Cate
+28,PAy5630,B2+,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Neurological and sense disorders
+311,KDm0144,A,IN,FALSE,4,2024-07-31,60,2024-09-29,PR,NUH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+169,TZt9327,B2,IN,TRUE,0,2024-09-01,40,2024-10-11,SC,SKH,Ophthalmology,Discharged,III-defined diseases
+256,YBT3496,C,IN,TRUE,-,2024-09-20,1,2024-09-21,PR,NUH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+272,JfH3003,DS Pte/Sub,DY,FALSE,-,2024-09-08,5,2024-09-13,SC,KKH,General Surgery,Follow-up at SOC,Other Cate
+6,MYR7598,DS Pte/Sub,DY,FALSE,4,2024-07-31,60,2024-09-29,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+403,YtP7560,B2,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,KKH,General Surgery,Follow-up at SOC,Digestive disease
+205,QRv3571,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,PR,TTSH,Others,Follow-up at SOC,Neurological and sense disorders
+30,ZJz5277,DS Pte/Sub,DY,FALSE,-,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Other Cate
+443,Coz6643,C,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,CGH,Others,Discharged,Other Cate
+319,Snx7942,B1,IN,FALSE,-,2024-09-01,40,2024-10-11,PR,CGH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+340,KcE5419,DS Pte/Sub,DY,FALSE,4,2024-09-20,1,2024-09-21,SC,TTSH,General Medicine,Others/Step-down care,Other Cate
+154,Qzk1596,A,IN,TRUE,-,2024-09-08,5,2024-09-13,SC,TTSH,Otorhinolaryngology,Follow-up at SOC,III-defined diseases
+265,CXp9294,C,IN,TRUE,-,2024-07-31,60,2024-09-29,NR,KKH,General Medicine,Follow-up at SOC,Other Cate
+274,rcL4348,B2,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,CGH,General Medicine,Discharged,Other Cate
+398,MDV6582,B2,IN,FALSE,2,2024-09-20,1,2024-09-21,SC,NUH,Ophthalmology,Follow-up at SOC,Other Cate
+302,ujM5766,DS Pte/Sub,DY,FALSE,-,2024-09-08,5,2024-09-13,SC,CGH,Ophthalmology,Others/Step-down care,Other Cate
+18,XEo0632,B2+,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,NUH,Ophthalmology,Follow-up at SOC,Other Cate
+263,zog4332,A,IN,TRUE,0,2024-09-01,40,2024-10-11,PR,KKH,Others,Follow-up at SOC,Other Cate
+264,DLT5049,B2,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,NUH,Others,Discharged,Cardiovascular disease
+311,Suw6599,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,SC,AH,Others,Follow-up at SOC,Other Cate
+18,yrh9159,DS Pte/Sub,DY,TRUE,3,2024-07-31,60,2024-09-29,SC,NUH,Others,Discharged,Other Cate
+182,MqB5802,DS Pte/Sub,DY,FALSE,-,2024-09-01,40,2024-10-11,PR,IMH,General Surgery,Discharged,Other Cate
+497,Wfc0059,B1,IN,FALSE,0,2024-09-20,1,2024-09-21,NR,SGH,Others,Follow-up at SOC,Other Cate
+306,wnz4542,C,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,TTSH,Others,Follow-up at SOC,Other Cate
+164,Yqj9280,B2,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,KTPH,Ophthalmology,Follow-up at SOC,Neurological and sense disorders
+216,dNm2416,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,SC,NTFGH,Others,Follow-up at SOC,Digestive disease
+195,liO3529,B2+,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,TTSH,Others,Follow-up at SOC,Other Cate
+53,mmE6377,DS Pte/Sub,DY,TRUE,0,2024-09-08,5,2024-09-13,SC,SGH,Ophthalmology,Follow-up at SOC,Other Cate
+5,qWs8177,A,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,SGH,Others,Follow-up at SOC,III-defined diseases
+19,VBd1389,C,IN,TRUE,0,2024-09-01,40,2024-10-11,SC,NTFGH,Others,Follow-up at SOC,Other Cate
+267,JBT6273,B2,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,SGH,Others,Follow-up at SOC,Other Cate
+210,KwB0844,B1,IN,TRUE,-,2024-09-08,5,2024-09-13,PR,NUH,Otorhinolaryngology,Follow-up at SOC,III-defined diseases
+46,ixh2682,DS Pte/Sub,DY,FALSE,3,2024-07-31,60,2024-09-29,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+268,eKg9062,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,SC,NUH,Others,Follow-up at SOC,Other Cate
+138,rjX5517,C,IN,TRUE,3,2024-09-20,1,2024-09-21,SC,AH,Otorhinolaryngology,Discharged,Other Cate
+305,PtI1024,B2,IN,TRUE,-,2024-09-08,5,2024-09-13,PR,SGH,Others,Discharged,III-defined diseases
+97,TgI3456,C,IN,FALSE,3,2024-07-31,60,2024-09-29,SC,NTFGH,Others,Follow-up at SOC,Other Cate
+438,pPm6510,C,IN,FALSE,3,2024-09-01,40,2024-10-11,SC,KTPH,Others,Discharged,Digestive disease
+59,frq0487,C,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,TTSH,Ophthalmology,Follow-up at SOC,Genitourinary disorders
+388,BEl7026,DS Pte/Sub,DY,FALSE,0,2024-09-08,5,2024-09-13,SC,SNEC,Others,Follow-up at SOC,Other Cate
+282,WTo9758,A,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,KTPH,Others,Discharged,Other Cate
+355,eqi3609,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,SGH,Others,Follow-up at SOC,Digestive disease
+413,gKh2596,DS Pte/Sub,DY,TRUE,-,2024-09-20,1,2024-09-21,NR,NUH,Others,Discharged,III-defined diseases
+381,FrY7686,DS Pte/Sub,DY,FALSE,0,2024-09-08,5,2024-09-13,SC,TTSH,Others,Follow-up at SOC,Cardiovascular disease
+354,oXu5536,C,IN,FALSE,0,2024-07-31,60,2024-09-29,NR,TTSH,Others,Discharged,Other Cate
+308,vEM6592,C,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,TTSH,Others,Follow-up at SOC,III-defined diseases
+298,Pqz5583,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,SC,CGH,Others,Follow-up at SOC,Other Cate
+161,rJx1446,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,SC,TTSH,Others,Follow-up at SOC,III-defined diseases
+139,PMk9603,C,IN,TRUE,-,2024-07-31,60,2024-09-29,NR,TTSH,General Surgery,Follow-up at SOC,Neurological and sense disorders
+220,TUA0106,C,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,KTPH,Others,Discharged,Other Cate
+170,bfM6180,C,IN,TRUE,4,2024-09-20,1,2024-09-21,SC,NUH,General Surgery,Follow-up at SOC,Digestive disease
+454,fQP7389,C,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,KTPH,General Surgery,Discharged,Other Cate
+280,Ira1585,B2,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,NUH,Others,Discharged,III-defined diseases
+81,XxX1727,DS Pte/Sub,DY,FALSE,0,2024-09-01,40,2024-10-11,SC,NUH,Others,Follow-up at SOC,Other Cate
+459,tYX6947,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,SC,KKH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+302,CYq5479,A,IN,TRUE,-,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Other Cate
+267,Yqp2224,A,IN,TRUE,-,2024-07-31,60,2024-09-29,NR,NHC,Others,Discharged,Neurological and sense disorders
+234,nOs5570,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,SC,SGH,Ophthalmology,Follow-up at SOC,Other Cate
+222,kqD4092,B2,IN,TRUE,0,2024-09-20,1,2024-09-21,PR,NUH,Others,Follow-up at SOC,Digestive disease
+127,ERR5377,B2,IN,FALSE,0,2024-09-08,5,2024-09-13,NR,NHC,General Surgery,Discharged,Genitourinary disorders
+170,LiB5597,C,IN,TRUE,4,2024-07-31,60,2024-09-29,SC,TTSH,General Medicine,Others,III-defined diseases
+431,SLQ0920,DS Pte/Sub,DY,FALSE,0,2024-09-01,40,2024-10-11,SC,SKH,Ophthalmology,Follow-up at SOC,Other Cate
+383,WKF2915,C,IN,FALSE,-,2024-09-20,1,2024-09-21,PR,AH,Orthopaedic Surgery,Follow-up at SOC,Cardiovascular disease
+325,WOB5382,DS Pte/Sub,DY,FALSE,0,2024-09-08,5,2024-09-13,NR,SGH,Others,Follow-up at SOC,Other Cate
+286,YUE3083,B2,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,TTSH,Others,Follow-up at SOC,Other Cate
+219,Hat9489,B1,IN,FALSE,4,2024-09-01,40,2024-10-11,PR,NATIONAL CANCER CENTRE SINGAPORE,Others,Follow-up at SOC,Cardiovascular disease
+63,ziA5968,B2,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,KKH,Others,Others,III-defined diseases
+329,bLu0271,DS Pte/Sub,DY,FALSE,-,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Neurological and sense disorders
+81,jOT1773,B2,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,KTPH,Others,Follow-up at SOC,Other Cate
+469,Lmo4656,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,PR,SGH,General Medicine,Follow-up at SOC,Other Cate
+225,DvU0132,C,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,CGH,General Surgery,Others,Digestive disease
+82,hUX2312,DS Pte/Sub,DY,TRUE,0,2024-09-08,5,2024-09-13,SC,IMH,Others,Follow-up at SOC,Other Cate
+59,HQN8388,B1,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,CGH,Others,Follow-up at SOC,Other Cate
+59,hRb6397,A,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,SGH,Orthopaedic Surgery,Follow-up at SOC,Cardiovascular disease
+498,iAu1324,DS Pte/Sub,DY,FALSE,-,2024-09-20,1,2024-09-21,SC,NTFGH,General Medicine,Follow-up at SOC,Other Cate
+378,wKN8956,C,IN,FALSE,4,2024-09-08,5,2024-09-13,SC,CGH,General Surgery,Follow-up at SOC,Other Cate
+347,EDp2691,B2,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,NUH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+422,mDh0629,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,CGH,Ophthalmology,Follow-up at SOC,Cardiovascular disease
+57,Yoa2481,C,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,KKH,General Surgery,Follow-up at SOC,Other Cate
+458,Sbb6251,B1,IN,TRUE,2,2024-09-08,5,2024-09-13,SC,TTSH,Ophthalmology,Follow-up at SOC,Other Cate
+332,yKo7229,C,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,CGH,Others,Follow-up at SOC,Other Cate
+86,Gty3208,B1,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,NUH,General Medicine,Follow-up at SOC,Cardiovascular disease
+84,QhH6623,ICU,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,SGH,General Medicine,Discharged,Other Cate
+58,svQ1808,B2,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,NHC,General Medicine,Follow-up at SOC,Other Cate
+64,twA4948,B2,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,NUH,Ophthalmology,Discharged,Other Cate
+50,cMY6647,DS Pte/Sub,DY,FALSE,3,2024-09-01,40,2024-10-11,PR,TTSH,Others,Follow-up at SOC,III-defined diseases
+495,dDN8659,A,IN,FALSE,2,2024-09-20,1,2024-09-21,SC,KKH,General Medicine,Follow-Up At Primary Care,Other Cate
+328,ZUY7436,ICU,IN,FALSE,4,2024-09-08,5,2024-09-13,SC,SGH,General Surgery,Follow-up at SOC,Other Cate
+490,QST3989,C,IN,FALSE,0,2024-07-31,60,2024-09-29,PR,SNEC,General Surgery,Follow-up at SOC,Other Cate
+489,dGN2880,C,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,CGH,Ophthalmology,Discharged,Other Cate
+200,YDy8044,B2,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,KKH,Others,Follow-Up At Primary Care,Neurological and sense disorders
+437,yDh5271,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,SC,NCC,Others,Follow-up at SOC,Neurological and sense disorders
+174,hjs0657,DS Pte/Sub,DY,TRUE,-,2024-07-31,60,2024-09-29,SC,KTPH,Others,Follow-up at SOC,Other Cate
+333,aOB4233,B2+,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,NUH,Others,Follow-up at SOC,Neurological and sense disorders
+261,nxk6174,B2,IN,TRUE,-,2024-09-20,1,2024-09-21,PR,NUH,General Surgery,Follow-up at SOC,Neurological and sense disorders
+498,TdP2922,B2,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,TTSH,Others,Follow-up at SOC,Digestive disease
+163,NHa6336,DS Pte/Sub,DY,FALSE,4,2024-07-31,60,2024-09-29,SC,CGH,Others,Follow-up at SOC,Digestive disease
+177,Pso4638,B1,IN,TRUE,0,2024-09-01,40,2024-10-11,SC,NUH,Others,Follow-up at SOC,Other Cate
+461,jSg0736,B1,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,SNEC,Others,Follow-up at SOC,Neurological and sense disorders
+349,qSs9703,C,IN,FALSE,0,2024-09-08,5,2024-09-13,NR,KKH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+326,crC5491,C,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,NUH,General Surgery,Follow-up at SOC,Neurological and sense disorders
+228,bsy7735,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,SC,NUH,Others,Follow-up at SOC,Other Cate
+136,Ueg5065,B1,IN,FALSE,2,2024-09-20,1,2024-09-21,PR,CGH,General Surgery,Follow-up at SOC,Neurological and sense disorders
+476,tvQ8685,A,IN,TRUE,3,2024-09-08,5,2024-09-13,SC,AH,General Medicine,Follow-up at SOC,Other Cate
+264,iTJ2616,DS Pte/Sub,DY,TRUE,-,2024-07-31,60,2024-09-29,SC,CGH,Ophthalmology,Follow-up at SOC,III-defined diseases
+28,pAP2510,B2,IN,TRUE,0,2024-09-01,40,2024-10-11,NR,AH,Ophthalmology,Discharged,Other Cate
+10,aQS2048,B1,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+225,XEi1818,C,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,KKH,Others,Follow-up at SOC,Other Cate
+46,rrV7419,DS Pte/Sub,DY,TRUE,-,2024-07-31,60,2024-09-29,SC,CGH,Ophthalmology,Follow-up at SOC,Other Cate
+226,oyl3543,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,SC,SGH,Ophthalmology,Follow-up at SOC,III-defined diseases
+276,Sgi2793,C,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,KKH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+284,UmR1028,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,SC,AH,Others,Follow-up at SOC,Other Cate
+464,lWl3679,B1,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,TTSH,Others,Others,Other Cate
+304,pPt9250,A,IN,TRUE,-,2024-09-01,40,2024-10-11,NR,SGH,Ophthalmology,Follow-up at SOC,Other Cate
+71,mLQ0675,C,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,CGH,Others,Follow-up at SOC,Neurological and sense disorders
+494,Xxm9228,B2,IN,TRUE,-,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Neurological and sense disorders
+36,ofv7967,B2,IN,FALSE,4,2024-07-31,60,2024-09-29,SC,NUH,General Surgery,Follow-up at SOC,Neurological and sense disorders
+167,eWo3977,C,IN,TRUE,0,2024-09-01,40,2024-10-11,SC,TTSH,General Medicine,Discharged,Other Cate
+155,XDg6670,C,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,KKH,General Medicine,Follow-up at SOC,III-defined diseases
+26,wgt3824,B2,IN,FALSE,-,2024-09-08,5,2024-09-13,NR,SGH,Others,Follow-up at SOC,Cardiovascular disease
+484,bqn5990,C,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,KKH,Others,Follow-up at SOC,III-defined diseases
+276,ZEp1198,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,SC,TTSH,Ophthalmology,Follow-up at SOC,III-defined diseases
+3,ddx9265,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,CGH,Others,Follow-up at SOC,III-defined diseases
+461,sgH8846,DS Pte/Sub,DY,FALSE,0,2024-09-08,5,2024-09-13,NR,SKH,Others,Follow-up at SOC,Digestive disease
+108,pmd8781,DS Pte/Sub,DY,FALSE,-,2024-07-31,60,2024-09-29,NR,TTSH,General Medicine,Discharged,Other Cate
+277,rku4009,DS Pte/Sub,DY,FALSE,0,2024-09-01,40,2024-10-11,SC,SGH,Ophthalmology,Discharged,Other Cate
+324,EyL2329,DS Pte/Sub,DY,FALSE,-,2024-09-20,1,2024-09-21,NR,SGH,Ophthalmology,Follow-up at SOC,Other Cate
+446,WID5792,B2,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+4,fcF3267,B2,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,NUH,General Medicine,Follow-up at SOC,Other Cate
+351,BTZ1245,C,IN,TRUE,0,2024-09-01,40,2024-10-11,NR,SGH,General Surgery,Discharged,Other Cate
+437,Gxy4135,C,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,NUH,Others,Follow-up at SOC,III-defined diseases
+440,Exp1591,DS Pte/Sub,DY,TRUE,3,2024-09-08,5,2024-09-13,SC,NUH,Ophthalmology,Follow-up at SOC,Cardiovascular disease
+181,byw0506,DS Pte/Sub,DY,FALSE,-,2024-07-31,60,2024-09-29,NR,SNEC,Orthopaedic Surgery,Follow-up at SOC,Cardiovascular disease
+499,uNg0870,A,IN,FALSE,4,2024-09-01,40,2024-10-11,SC,CGH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+356,eNq9110,C,IN,TRUE,2,2024-09-20,1,2024-09-21,SC,KTPH,Others,Discharged,III-defined diseases
+147,shT2407,DS Pte/Sub,DY,FALSE,0,2024-09-08,5,2024-09-13,SC,TTSH,Others,Follow-Up At Primary Care,Other Cate
+100,yYO1095,DS Pte/Sub,DY,TRUE,0,2024-07-31,60,2024-09-29,SC,TTSH,Otorhinolaryngology,Discharged,III-defined diseases
+285,CsL8296,B2+,IN,TRUE,0,2024-09-01,40,2024-10-11,SC,SNEC,Others,Follow-Up At Primary Care,Other Cate
+53,gay3286,DS Pte/Sub,DY,FALSE,-,2024-09-20,1,2024-09-21,SC,SGH,Others,Follow-up at SOC,Other Cate
+160,NrI0705,B2+,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,SNEC,Others,Follow-up at SOC,Other Cate
+343,GFO4688,B2,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,NUH,General Surgery,Discharged,III-defined diseases
+23,nqG2503,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,SC,CGH,Others,Follow-up at SOC,III-defined diseases
+461,bSr4529,C,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,CGH,General Medicine,Follow-up at SOC,Other Cate
+212,PXb5177,DS Pte/Sub,DY,TRUE,0,2024-09-08,5,2024-09-13,SC,KKH,Ophthalmology,Follow-up at SOC,Cardiovascular disease
+191,EfW4454,B2,IN,TRUE,-,2024-07-31,60,2024-09-29,NR,SGH,Otorhinolaryngology,Others/Step-down care,Cardiovascular disease
+466,WDe4964,DS Pte/Sub,DY,FALSE,-,2024-09-01,40,2024-10-11,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+252,POY6570,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,PR,KKH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+299,vUW5083,B2,IN,TRUE,4,2024-09-08,5,2024-09-13,PR,TTSH,Others,Follow-Up At Primary Care,Other Cate
+287,sih5564,DS Pte/Sub,DY,TRUE,-,2024-07-31,60,2024-09-29,SC,SGH,Others,Follow-up at SOC,Other Cate
+475,wyl9865,B2,IN,TRUE,-,2024-09-01,40,2024-10-11,PR,TTSH,Others,Follow-up at SOC,Other Cate
+119,yFj0301,C,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,KTPH,General Surgery,Follow-up at SOC,Other Cate
+122,MyA5654,C,IN,TRUE,2,2024-09-08,5,2024-09-13,SC,KTPH,General Surgery,Others,Other Cate
+196,kbg0124,B2,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+303,ElQ7878,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,TTSH,Others,Discharged,Other Cate
+375,nTP0232,B2,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,SGH,General Medicine,Discharged,Other Cate
+183,WXT2113,C,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Digestive disease
+470,OnL8222,A,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,TTSH,Others,Discharged,Other Cate
+393,nbJ5896,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,AH,General Medicine,Follow-up at SOC,Other Cate
+145,kLv2270,B2,IN,FALSE,-,2024-08-05,3,2024-08-08,PR,CGH,General Medicine,Follow-up at SOC,Cardiovascular disease
+372,cym0080,DS Pte/Sub,DY,TRUE,0,2024-09-08,5,2024-09-13,SC,TTSH,Others,Discharged,Cardiovascular disease
+497,FtW8865,DS Pte/Sub,DY,FALSE,0,2024-07-31,60,2024-09-29,SC,CGH,General Medicine,Others/Step-down care,Neurological and sense disorders
+433,SWl7328,DS Pte/Sub,DY,FALSE,-,2024-09-01,40,2024-10-11,PR,SGH,Orthopaedic Surgery,Follow-up at SOC,Cardiovascular disease
+443,saw4515,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,SGH,Others,Discharged,III-defined diseases
+79,Qkf9530,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,SC,NUH,Ophthalmology,Discharged,Digestive disease
+282,tec5053,B2,IN,FALSE,2,2024-07-31,60,2024-09-29,SC,TTSH,Others,Others/Step-down care,Genitourinary disorders
+156,Twv3638,DS Pte/Sub,DY,FALSE,3,2024-09-01,40,2024-10-11,SC,SKH,Others,Follow-up at SOC,Other Cate
+72,Dgg2885,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,NUH,Others,Follow-up at SOC,Neurological and sense disorders
+226,lif2901,DS Pte/Sub,DY,FALSE,0,2024-09-08,5,2024-09-13,SC,CGH,Ophthalmology,Follow-up at SOC,Neurological and sense disorders
+230,sEO1345,B1,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,NTFGH,Others,Follow-up at SOC,Cardiovascular disease
+25,lpG5277,C,IN,TRUE,3,2024-09-01,40,2024-10-11,NR,KTPH,General Medicine,Others,III-defined diseases
+61,Xkx9113,DS Pte/Sub,DY,TRUE,-,2024-09-20,1,2024-09-21,SC,NUH,Others,Follow-up at SOC,Other Cate
+494,nHZ4928,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,PR,NTFGH,Others,Follow-up at SOC,Neurological and sense disorders
+248,Huf8537,DS Pte/Sub,DY,FALSE,0,2024-07-31,60,2024-09-29,PR,NUH,Others,Follow-up at SOC,Neurological and sense disorders
+203,JuE6238,B2,IN,TRUE,-,2024-09-01,40,2024-10-11,NR,CGH,Others,Follow-up at SOC,Genitourinary disorders
+2,LGG1640,C,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,CGH,Others,Follow-up at SOC,Other Cate
+156,OUT3412,C,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,KTPH,General Medicine,Follow-up at SOC,Other Cate
+206,Ixp2146,DS Pte/Sub,DY,TRUE,0,2024-07-31,60,2024-09-29,SC,CGH,General Medicine,Follow-up at SOC,Digestive disease
+113,eVc0217,B2,IN,TRUE,3,2024-09-01,40,2024-10-11,SC,NHC,Others,Follow-up at SOC,Other Cate
+260,UOE4373,A,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,CGH,General Medicine,Follow-up at SOC,Other Cate
+253,TnJ6783,DS Pte/Sub,DY,FALSE,-,2024-09-08,5,2024-09-13,SC,AH,General Surgery,Discharged,Other Cate
+249,FTb0749,C,IN,TRUE,4,2024-07-31,60,2024-09-29,PR,NUH,General Medicine,Follow-up at SOC,Other Cate
+268,LGY5584,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,SC,NCC,General Medicine,Follow-up at SOC,Other Cate
+26,Qvd0412,B2,IN,FALSE,1,2024-09-20,1,2024-09-21,SC,TTSH,Others,Discharged,Neurological and sense disorders
+110,VNc9851,DS Pte/Sub,DY,FALSE,-,2024-09-08,5,2024-09-13,SC,TTSH,Others,Follow-up at SOC,Digestive disease
+26,iAt9463,B2,IN,FALSE,3,2024-07-31,60,2024-09-29,PR,SNEC,Others,Follow-up at SOC,Other Cate
+451,Vcv3368,DS Pte/Sub,DY,TRUE,2,2024-09-01,40,2024-10-11,SC,NHC,General Medicine,Follow-up at SOC,Other Cate
+459,VIn0067,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,SC,SGH,General Medicine,Discharged,Other Cate
+295,pdN8662,A,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,KKH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+325,gGy3961,B2,IN,FALSE,2,2024-07-31,60,2024-09-29,SC,CGH,Ophthalmology,Follow-up at SOC,Neurological and sense disorders
+472,nFo4217,B2,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,KKH,Others,Discharged,Neurological and sense disorders
+75,mah2599,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,SGH,Others,Follow-Up At Primary Care,Neurological and sense disorders
+174,REO3482,A,IN,FALSE,3,2024-09-08,5,2024-09-13,PR,SNEC,General Medicine,Follow-up at SOC,Other Cate
+339,kLE9767,C,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,NATIONAL CANCER CENTRE SINGAPORE,Otorhinolaryngology,Discharged,Other Cate
+395,OBM5339,A,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,KTPH,Others,Follow-up at SOC,Other Cate
+130,DTd9323,DS Pte/Sub,DY,TRUE,3,2024-09-20,1,2024-09-21,SC,SGH,Others,Discharged,Other Cate
+51,fyc5454,B2,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,NUH,General Medicine,Follow-up at SOC,Other Cate
+70,ZYX2349,C,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+107,LRQ0987,A,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,TTSH,Ophthalmology,Discharged,Cardiovascular disease
+5,hoO3523,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,SC,CGH,Ophthalmology,Discharged,Digestive disease
+118,hlW6923,A,IN,TRUE,0,2024-09-08,5,2024-09-13,PR,NTFGH,Otorhinolaryngology,Others,Genitourinary disorders
+308,DKM1581,DS Pte/Sub,DY,TRUE,0,2024-07-31,60,2024-09-29,SC,NUH,General Medicine,Follow-up at SOC,Other Cate
+20,iNo0361,C,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,NUH,Others,Follow-up at SOC,Other Cate
+231,PHC3176,B2,IN,FALSE,3,2024-09-20,1,2024-09-21,SC,NUH,General Medicine,Follow-up at SOC,III-defined diseases
+393,hbW2580,C,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,SNEC,Others,Follow-up at SOC,Other Cate
+323,uHP4782,C,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,TTSH,General Surgery,Follow-up at SOC,Digestive disease
+393,Saj2998,B2,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,KKH,Ophthalmology,Discharged,Other Cate
+157,rou3892,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,SGH,Others,Follow-up at SOC,Other Cate
+147,tGa1970,B2+,IN,FALSE,2,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Other Cate
+108,UPk4549,C,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,NHC,Otorhinolaryngology,Follow-up at SOC,III-defined diseases
+350,cFT6747,C,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,CGH,Ophthalmology,Discharged,Cardiovascular disease
+474,rvL1245,B2,IN,FALSE,2,2024-09-20,1,2024-09-21,SC,NUH,Others,Follow-up at SOC,Digestive disease
+402,Euy6198,B2,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,NUH,General Medicine,Follow-up at SOC,Other Cate
+160,OBM4805,B1,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,SGH,Others,Follow-up at SOC,Digestive disease
+332,CVs3530,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,SC,CGH,Others,Discharged,Other Cate
+211,CgH8635,DS Pte/Sub,DY,TRUE,-,2024-09-20,1,2024-09-21,SC,NHC,Others,Follow-Up At Primary Care,Digestive disease
+106,EiI0398,B1,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,TTSH,Others,Discharged,Other Cate
+36,dzD9445,A,IN,FALSE,3,2024-07-31,60,2024-09-29,SC,NUH,General Medicine,Follow-up at SOC,Digestive disease
+122,Xal3506,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,SC,SGH,Others,Follow-up at SOC,Cardiovascular disease
+473,jtd5758,B2+,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,SNEC,Others,Follow-up at SOC,Other Cate
+153,pLV8949,C,IN,TRUE,-,2024-09-08,5,2024-09-13,NR,CGH,Others,Discharged,Cardiovascular disease
+442,rCh6789,DS Pte/Sub,DY,FALSE,0,2024-07-31,60,2024-09-29,SC,SGH,Others,Follow-up at SOC,Digestive disease
+144,zDZ7166,B2,IN,TRUE,0,2024-09-01,40,2024-10-11,SC,NATIONAL CANCER CENTRE SINGAPORE,Others,Discharged,Other Cate
+380,tTI0101,C,IN,TRUE,0,2024-09-20,1,2024-09-21,NR,AH,General Medicine,Others/Step-down care,Other Cate
+180,omo9782,DS Pte/Sub,DY,FALSE,-,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,III-defined diseases
+89,xlN9264,C,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,SGH,Others,Discharged,III-defined diseases
+73,AMg3816,B1,IN,TRUE,0,2024-09-01,40,2024-10-11,SC,NNI,General Medicine,Follow-up at SOC,Other Cate
+444,ZqX5658,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,SC,AH,Others,Follow-up at SOC,Other Cate
+429,aXr4212,DS Pte/Sub,DY,TRUE,0,2024-09-08,5,2024-09-13,SC,NHC,General Surgery,Discharged,Neurological and sense disorders
+469,LHY3123,B2,IN,FALSE,-,2024-07-31,60,2024-09-29,PR,NCC,Others,Follow-up at SOC,Other Cate
+44,hzx2395,C,IN,TRUE,0,2024-09-01,40,2024-10-11,PR,SGH,Others,Follow-up at SOC,Other Cate
+276,LSU3702,DS Pte/Sub,DY,TRUE,2,2024-09-20,1,2024-09-21,NR,TTSH,Orthopaedic Surgery,Follow-Up At Primary Care,III-defined diseases
+417,QvC6705,B2,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,SNEC,General Medicine,Follow-up at SOC,III-defined diseases
+433,oDx5154,A,IN,FALSE,0,2024-07-31,60,2024-09-29,NR,CGH,Others,Follow-up at SOC,Genitourinary disorders
+312,QGA9891,A,IN,FALSE,3,2024-09-01,40,2024-10-11,SC,NATIONAL CANCER CENTRE SINGAPORE,Otorhinolaryngology,Follow-up at SOC,Neurological and sense disorders
+150,Rio0901,B2,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+218,LrQ0236,B1,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,KKH,Others,Follow-up at SOC,Neurological and sense disorders
+3,mxc7440,DS Pte/Sub,DY,FALSE,3,2024-07-31,60,2024-09-29,SC,TTSH,Others,Follow-up at SOC,Other Cate
+332,DYh5218,A,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,KTPH,Others,Follow-up at SOC,Other Cate
+342,jlZ7100,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,SC,SGH,Others,Discharged,Neurological and sense disorders
+461,Erh7742,C,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,KTPH,General Medicine,Discharged,Other Cate
+213,iUW1844,C,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,TTSH,Others,Follow-up at SOC,Neurological and sense disorders
+116,Bos0257,B2,IN,TRUE,-,2024-09-01,40,2024-10-11,NR,SGH,Others,Follow-up at SOC,Other Cate
+493,RjC7480,C,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,KTPH,Ophthalmology,Discharged,Other Cate
+289,Bje9434,C,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,SGH,Ophthalmology,Follow-up at SOC,Other Cate
+28,aPd2399,DS Pte/Sub,DY,TRUE,-,2024-07-31,60,2024-09-29,NR,JMC,Others,Discharged,Other Cate
+218,BrT9670,C,IN,TRUE,0,2024-09-01,40,2024-10-11,PR,TTSH,Others,Follow-up at SOC,Digestive disease
+414,ZoD4983,DS Pte/Sub,DY,TRUE,-,2024-09-20,1,2024-09-21,SC,TTSH,Ophthalmology,Follow-up at SOC,Other Cate
+290,jcw3657,C,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Genitourinary disorders
+239,sXM8299,DS Pte/Sub,DY,FALSE,3,2024-07-31,60,2024-09-29,SC,NTFGH,Ophthalmology,Follow-up at SOC,Other Cate
+354,YpX3673,C,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,CGH,Others,Follow-up at SOC,Digestive disease
+321,Lqd2837,C,IN,TRUE,3,2024-09-20,1,2024-09-21,SC,NUH,Others,Follow-up at SOC,III-defined diseases
+111,NVU1101,C,IN,FALSE,2,2024-09-08,5,2024-09-13,SC,CGH,Others,Follow-up at SOC,III-defined diseases
+426,haX6255,B1,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,KKH,Others,Follow-up at SOC,Genitourinary disorders
+260,gTV3316,B1,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,TTSH,Others,Follow-up at SOC,Other Cate
+205,ohp4494,A,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,TTSH,General Medicine,Follow-up at SOC,Digestive disease
+228,cgv6807,B2,IN,TRUE,-,2024-09-08,5,2024-09-13,NR,TTSH,Others,Follow-up at SOC,III-defined diseases
+304,sOA4371,DS Pte/Sub,DY,TRUE,0,2024-07-31,60,2024-09-29,SC,CGH,General Medicine,Discharged,Other Cate
+42,ZlQ6722,C,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,KKH,General Medicine,Discharged,III-defined diseases
+398,UGa3863,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,SGH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+154,zFh9586,B2,IN,TRUE,-,2024-09-08,5,2024-09-13,SC,NUH,General Surgery,Follow-up at SOC,Cardiovascular disease
+395,jNH6803,DS Pte/Sub,DY,TRUE,2,2024-07-31,60,2024-09-29,SC,TTSH,Others,Follow-up at SOC,Digestive disease
+248,eyE9152,B1,IN,FALSE,4,2024-09-01,40,2024-10-11,NR,KKH,General Surgery,Follow-up at SOC,Cardiovascular disease
+74,wPg1898,DS Pte/Sub,DY,TRUE,2,2024-09-20,1,2024-09-21,SC,NTFGH,Ophthalmology,Follow-up at SOC,Other Cate
+54,gJH4193,B1,IN,FALSE,0,2024-09-08,5,2024-09-13,PR,TTSH,General Surgery,Follow-up at SOC,Cardiovascular disease
+470,XoH1225,B2,IN,TRUE,2,2024-07-31,60,2024-09-29,SC,SGH,Otorhinolaryngology,Follow-up at SOC,Digestive disease
+383,ALv4432,DS Pte/Sub,DY,TRUE,2,2024-09-01,40,2024-10-11,SC,CGH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+108,JVT5078,C,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,CGH,Others,Others/Step-down care,Other Cate
+351,Gyg9689,C,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Other Cate
+434,sTl6995,B2,IN,TRUE,4,2024-07-31,60,2024-09-29,SC,SGH,Others,Discharged,Other Cate
+324,yUP2000,C,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,SGH,General Medicine,Follow-up at SOC,Other Cate
+399,tlw5344,B2,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,KTPH,Others,Discharged,Other Cate
+318,QBP1146,A,IN,TRUE,-,2024-09-08,5,2024-09-13,SC,KKH,Others,Discharged,Other Cate
+340,Tut8340,B2,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,TTSH,Others,Follow-up at SOC,Cardiovascular disease
+138,Evo4139,DS Pte/Sub,DY,FALSE,-,2024-09-01,40,2024-10-11,SC,KKH,Ophthalmology,Follow-up at SOC,Genitourinary disorders
+332,qXu5250,A,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,KTPH,Others,Follow-up at SOC,Genitourinary disorders
+81,IZW4537,B2,IN,FALSE,4,2024-09-08,5,2024-09-13,NR,SNEC,Others,Discharged,Other Cate
+448,zlm5932,B1,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,TTSH,Others,Discharged,Other Cate
+253,eEj9053,B1,IN,FALSE,3,2024-09-01,40,2024-10-11,SC,TTSH,Others,Follow-up at SOC,Other Cate
+66,vNZ6087,A,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+492,RaI7714,B2+,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,TTSH,Otorhinolaryngology,Follow-up at SOC,III-defined diseases
+284,pFo0738,DS Pte/Sub,DY,FALSE,2,2024-07-31,60,2024-09-29,SC,SGH,General Surgery,Follow-up at SOC,Neurological and sense disorders
+439,AdN4714,C,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,CGH,General Surgery,Follow-up at SOC,Digestive disease
+54,ZdP3268,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,NR,NUH,Otorhinolaryngology,Others/Step-down care,Other Cate
+448,cjG4344,DS Pte/Sub,DY,FALSE,-,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Other Cate
+318,MpQ5690,C,IN,TRUE,1,2024-07-31,60,2024-09-29,SC,KKH,Others,Follow-up at SOC,Other Cate
+319,Vej9471,B2,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,NUH,Others,Follow-up at SOC,Other Cate
+134,idQ4116,B2,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,NUH,General Medicine,Discharged,Other Cate
+269,dMF7452,A,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,KTPH,General Medicine,Follow-up at SOC,Other Cate
+53,GKF9925,DS Pte/Sub,DY,FALSE,-,2024-07-31,60,2024-09-29,SC,KTPH,General Medicine,Follow-up at SOC,III-defined diseases
+77,VnX0735,C,IN,TRUE,0,2024-09-01,40,2024-10-11,SC,SGH,General Surgery,Follow-up at SOC,Digestive disease
+110,IsH2621,DS Pte/Sub,DY,FALSE,-,2024-09-20,1,2024-09-21,PR,NHC,Others,Follow-up at SOC,Other Cate
+152,NfL2979,ICU,IN,FALSE,3,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Cardiovascular disease
+40,zAh2742,C,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,SGH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+302,MBL7166,DS Pte/Sub,DY,FALSE,-,2024-09-01,40,2024-10-11,PR,NTFGH,Ophthalmology,Others/Step-down care,Other Cate
+253,oUQ4117,B2,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,KTPH,Others,Follow-up at SOC,Other Cate
+47,RWh8847,B2,IN,FALSE,4,2024-09-08,5,2024-09-13,SC,KTPH,General Surgery,Follow-up at SOC,Other Cate
+337,zyL2066,C,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,NTFGH,General Surgery,Follow-up at SOC,Cardiovascular disease
+164,xVz6622,C,IN,TRUE,0,2024-09-01,40,2024-10-11,SC,TTSH,General Medicine,Discharged,Other Cate
+3,jye0400,B2,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,CGH,Others,Follow-up at SOC,Other Cate
+425,JGS7516,B1,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Genitourinary disorders
+294,mdH2236,B2,IN,FALSE,4,2024-07-31,60,2024-09-29,SC,SGH,Others,Discharged,Cardiovascular disease
+190,lCx2992,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,NR,TTSH,Others,Discharged,Other Cate
+478,XTo5661,DS Pte/Sub,DY,TRUE,-,2024-09-20,1,2024-09-21,SC,TTSH,Others,Follow-up at SOC,Other Cate
+437,uej8395,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,NR,KKH,Others,Follow-up at SOC,Other Cate
+79,ZHG5064,A,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,NUH,General Surgery,Follow-up at SOC,Other Cate
+484,avf7650,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,SGH,General Surgery,Discharged,Other Cate
+306,UGF6102,B2,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+458,zvX9488,DS Pte/Sub,DY,FALSE,4,2024-09-08,5,2024-09-13,SC,NUH,General Medicine,Follow-up at SOC,III-defined diseases
+388,qle9752,B2,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,KKH,General Medicine,Discharged,Other Cate
+150,xhD7728,C,IN,TRUE,3,2024-09-01,40,2024-10-11,PR,SNEC,Others,Discharged,Neurological and sense disorders
+346,PBa2604,C,IN,FALSE,4,2024-09-20,1,2024-09-21,SC,TTSH,Others,Follow-up at SOC,Other Cate
+91,SFo9435,B2,IN,FALSE,0,2024-09-08,5,2024-09-13,SC,CGH,General Medicine,Follow-up at SOC,Digestive disease
+56,kuL0042,C,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,SGH,General Medicine,Follow-up at SOC,Other Cate
+70,BXp1298,A,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,KKH,Others,Discharged,Other Cate
+222,TVn9414,C,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,NUH,Orthopaedic Surgery,Follow-up at SOC,III-defined diseases
+289,XpT2988,B2,IN,TRUE,-,2024-09-08,5,2024-09-13,SC,SNEC,General Medicine,Follow-up at SOC,Other Cate
+449,zGR6575,B2,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,KKH,Others,Follow-up at SOC,Other Cate
+317,Lds8641,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,KTPH,General Medicine,Follow-up at SOC,Other Cate
+402,XRI0397,A,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,SNEC,General Surgery,Discharged,Other Cate
+423,UZC0980,C,IN,FALSE,3,2024-09-08,5,2024-09-13,SC,CGH,Others,Follow-up at SOC,Other Cate
+107,nZB5353,A,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,NUH,General Medicine,Discharged,Other Cate
+266,wgt2816,C,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+217,oKa9379,DS Pte/Sub,DY,FALSE,3,2024-09-20,1,2024-09-21,NR,KKH,Ophthalmology,Discharged,Neurological and sense disorders
+161,gBW9682,C,IN,TRUE,1,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Other Cate
+446,GdO6991,DS Pte/Sub,DY,FALSE,0,2024-07-31,60,2024-09-29,SC,KKH,Others,Follow-up at SOC,Other Cate
+326,fLN1803,DS Pte/Sub,DY,FALSE,0,2024-09-01,40,2024-10-11,SC,TTSH,Orthopaedic Surgery,Others,Neurological and sense disorders
+407,qgu4709,DS Pte/Sub,DY,TRUE,-,2024-09-20,1,2024-09-21,SC,NUH,General Surgery,Discharged,Neurological and sense disorders
+220,xph0094,C,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,TTSH,Others,Follow-up at SOC,Other Cate
+412,PdX4841,B2,IN,FALSE,2,2024-07-31,60,2024-09-29,SC,SGH,Others,Follow-up at SOC,Other Cate
+222,nws6118,A,IN,FALSE,0,2024-09-01,40,2024-10-11,NR,TTSH,Others,Others/Step-down care,Other Cate
+413,Mbl9452,B2,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+65,ihL9547,B2,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,NCC,Others,Follow-up at SOC,Other Cate
+362,FQl7312,A,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,KKH,Others,Discharged,Neurological and sense disorders
+141,kvx3739,B2,IN,TRUE,4,2024-09-01,40,2024-10-11,SC,SGH,Ophthalmology,Follow-up at SOC,Other Cate
+257,kKr7549,C,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,SGH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+348,dFN5702,B2,IN,TRUE,-,2024-09-08,5,2024-09-13,SC,NUH,Others,Follow-up at SOC,Other Cate
+14,vIC3580,C,IN,FALSE,0,2024-07-31,60,2024-09-29,PR,TTSH,Others,Discharged,Other Cate
+161,Zaw2798,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,SGH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+195,pLq7354,B1,IN,TRUE,1,2024-09-20,1,2024-09-21,SC,NUH,General Surgery,Follow-up at SOC,Other Cate
+94,FBp3185,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,SC,KTPH,General Medicine,Discharged,Neurological and sense disorders
+66,xpj7866,B1,IN,TRUE,0,2024-07-31,60,2024-09-29,SC,SGH,Others,Follow-up at SOC,Other Cate
+14,Rrf5762,DS Pte/Sub,DY,FALSE,0,2024-09-01,40,2024-10-11,SC,NUH,Others,Follow-up at SOC,Neurological and sense disorders
+30,kkw3020,DS Pte/Sub,DY,TRUE,0,2024-09-20,1,2024-09-21,SC,SGH,General Surgery,Discharged,Digestive disease
+117,GCB7014,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,PR,NUH,Others,Discharged,Neurological and sense disorders
+173,kLM7050,C,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,KKH,Others,Follow-up at SOC,Other Cate
+260,JIG7855,C,IN,TRUE,0,2024-09-01,40,2024-10-11,PR,TTSH,General Surgery,Follow-up at SOC,Neurological and sense disorders
+119,mqR3231,C,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,NUH,Others,Discharged,Neurological and sense disorders
+367,rpp8053,DS Pte/Sub,DY,TRUE,3,2024-09-08,5,2024-09-13,SC,SGH,Others,Discharged,Other Cate
+51,GOs5138,DS Pte/Sub,DY,FALSE,0,2024-07-31,60,2024-09-29,NR,SGH,Orthopaedic Surgery,Follow-up at SOC,Neurological and sense disorders
+58,PpE1657,B2,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,KKH,Others,Follow-up at SOC,Other Cate
+349,Yze2453,B2,IN,FALSE,-,2024-09-20,1,2024-09-21,SC,SGH,Ophthalmology,Follow-up at SOC,Cardiovascular disease
+282,wBH9830,A,IN,TRUE,0,2024-09-08,5,2024-09-13,NR,TTSH,Others,Follow-up at SOC,Other Cate
+191,VXt9458,B2,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+262,LLX5346,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,SC,NCC,General Medicine,Follow-up at SOC,Digestive disease
+317,rPd9852,B2,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,SGH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+318,LRO0918,A,IN,FALSE,3,2024-09-08,5,2024-09-13,SC,CGH,Others,Discharged,Other Cate
+211,hkA0026,A,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,CGH,Others,Follow-up at SOC,Genitourinary disorders
+227,Ehf5475,C,IN,TRUE,-,2024-09-01,40,2024-10-11,SC,SGH,Others,Follow-up at SOC,Other Cate
+9,YyT9234,DS Pte/Sub,DY,FALSE,3,2024-09-20,1,2024-09-21,SC,TTSH,General Medicine,Follow-Up At Primary Care,Other Cate
+463,YTx4036,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,SC,SGH,Others,Follow-up at SOC,Other Cate
+98,rxk5955,DS Pte/Sub,DY,FALSE,1,2024-07-31,60,2024-09-29,SC,NTFGH,Orthopaedic Surgery,Discharged,Other Cate
+453,ihd4635,C,IN,FALSE,2,2024-09-01,40,2024-10-11,SC,SGH,General Surgery,Follow-up at SOC,Other Cate
+167,FjS5687,B2,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,TTSH,Others,Follow-up at SOC,Other Cate
+281,ZPU2017,DS Pte/Sub,DY,FALSE,-,2024-09-08,5,2024-09-13,SC,NHC,Others,Follow-up at SOC,Other Cate
+82,Qdj6964,DS Pte/Sub,DY,FALSE,-,2024-07-31,60,2024-09-29,SC,SGH,Others,Follow-up at SOC,Other Cate
+413,hDY3211,DS Pte/Sub,DY,FALSE,0,2024-09-01,40,2024-10-11,SC,NUH,Ophthalmology,Follow-up at SOC,Cardiovascular disease
+76,NYC5374,B2,IN,FALSE,-,2024-09-20,1,2024-09-21,PR,CGH,General Medicine,Follow-up at SOC,Other Cate
+264,uyr6806,DS Pte/Sub,DY,FALSE,0,2024-09-08,5,2024-09-13,SC,SGH,Orthopaedic Surgery,Discharged,Other Cate
+173,wts6723,DS Pte/Sub,DY,FALSE,-,2024-07-31,60,2024-09-29,SC,NATIONAL CANCER CENTRE SINGAPORE,Others,Follow-up at SOC,III-defined diseases
+406,JMl8188,B2,IN,FALSE,4,2024-09-01,40,2024-10-11,SC,TTSH,Others,Follow-up at SOC,Other Cate
+87,ooo0964,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,SGH,Others,Follow-up at SOC,Other Cate
+141,FAp0191,A,IN,TRUE,-,2024-09-08,5,2024-09-13,NR,KKH,General Medicine,Discharged,Other Cate
+82,YYO0362,DS Pte/Sub,DY,TRUE,2,2024-07-31,60,2024-09-29,SC,SGH,Others,Follow-up at SOC,Other Cate
+182,UDY4719,B2,IN,TRUE,0,2024-09-01,40,2024-10-11,NR,SNEC,General Medicine,Discharged,III-defined diseases
+268,vsj1870,B2,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,CGH,Ophthalmology,Discharged,III-defined diseases
+422,pAF6021,DS Pte/Sub,DY,TRUE,4,2024-09-08,5,2024-09-13,SC,TTSH,General Medicine,Discharged,Other Cate
+87,wuI5753,C,IN,TRUE,-,2024-07-31,60,2024-09-29,SC,TTSH,General Surgery,Discharged,Other Cate
+112,Yom4462,DS Pte/Sub,DY,TRUE,3,2024-09-01,40,2024-10-11,SC,CGH,General Medicine,Follow-up at SOC,Genitourinary disorders
+262,qfX5091,C,IN,TRUE,-,2024-09-20,1,2024-09-21,PR,CGH,Others,Follow-up at SOC,Neurological and sense disorders
+278,RSj5683,C,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,KTPH,General Medicine,Discharged,Digestive disease
+357,gWN0105,C,IN,FALSE,2,2024-07-31,60,2024-09-29,SC,KKH,Others,Follow-up at SOC,Other Cate
+165,nVr3095,B2,IN,FALSE,3,2024-09-01,40,2024-10-11,SC,NUH,General Medicine,Others/Step-down care,Other Cate
+347,yFS3616,C,IN,TRUE,-,2024-09-20,1,2024-09-21,PR,NTFGH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+81,owo6777,ICU,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,TTSH,Others,Follow-up at SOC,Other Cate
+327,wCQ3137,ICU,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,NUH,Ophthalmology,Discharged,Other Cate
+244,BiP5058,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,SC,NUH,Orthopaedic Surgery,Follow-up at SOC,Digestive disease
+336,ABY8455,B2,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,CGH,Others,Follow-up at SOC,Digestive disease
+476,Itr7972,DS Pte/Sub,DY,TRUE,-,2024-09-08,5,2024-09-13,SC,NUH,General Medicine,Follow-up at SOC,III-defined diseases
+212,KrR8470,DS Pte/Sub,DY,FALSE,0,2024-07-31,60,2024-09-29,SC,SGH,Others,Follow-up at SOC,Other Cate
+274,dVw0464,C,IN,FALSE,0,2024-09-01,40,2024-10-11,NR,NUH,General Medicine,Follow-up at SOC,Other Cate
+33,UYq8339,C,IN,TRUE,-,2024-09-20,1,2024-09-21,SC,NUH,Otorhinolaryngology,Discharged,Other Cate
+334,FDA9904,B1,IN,TRUE,2,2024-09-08,5,2024-09-13,SC,TTSH,General Surgery,Follow-up at SOC,Other Cate
+213,Jzm9641,B2,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,SGH,Others,Discharged,Other Cate
+141,ISM6573,B2,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,SNEC,General Surgery,Discharged,Other Cate
+145,lYU6824,A,IN,TRUE,1,2024-07-02,58,2024-08-29,SC,TTSH,Ophthalmology,Follow-up at SOC,Neurological and sense disorders
+442,WMp8254,DS Pte/Sub,DY,FALSE,2,2024-09-08,5,2024-09-13,SC,NUH,Orthopaedic Surgery,Follow-up at SOC,Cardiovascular disease
+97,NeM2530,DS Pte/Sub,DY,FALSE,0,2024-07-31,60,2024-09-29,SC,SGH,Otorhinolaryngology,Others/Step-down care,Neurological and sense disorders
+132,niv5707,C,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,SGH,Ophthalmology,Others,Neurological and sense disorders
+99,YBY4136,DS Pte/Sub,DY,TRUE,-,2024-09-20,1,2024-09-21,SC,TTSH,General Surgery,Follow-up at SOC,Cardiovascular disease
+167,vlZ1895,C,IN,TRUE,4,2024-09-08,5,2024-09-13,SC,SGH,General Surgery,Discharged,Other Cate
+155,RLO2482,DS Pte/Sub,DY,TRUE,0,2024-07-31,60,2024-09-29,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+428,VqM9685,B2,IN,FALSE,-,2024-09-01,40,2024-10-11,PR,SGH,Others,Follow-up at SOC,Other Cate
+288,Tgq2641,B2,IN,FALSE,0,2024-09-20,1,2024-09-21,SC,TTSH,Others,Follow-up at SOC,Other Cate
+218,Ikd6155,C,IN,TRUE,3,2024-09-08,5,2024-09-13,SC,TTSH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+177,Sla7105,C,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,SNEC,Others,Follow-up at SOC,Neurological and sense disorders
+185,lLi8506,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,PR,KKH,Others,Others,Other Cate
+68,IMD8956,DS Pte/Sub,DY,FALSE,3,2024-09-20,1,2024-09-21,PR,NUH,General Medicine,Follow-up at SOC,Other Cate
+104,Wtf7781,C,IN,TRUE,-,2024-09-08,5,2024-09-13,SC,CGH,Others,Follow-up at SOC,Other Cate
+495,Bua0010,B1,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,NATIONAL CANCER CENTRE SINGAPORE,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+303,Zne8276,DS Pte/Sub,DY,TRUE,0,2024-09-01,40,2024-10-11,SC,KTPH,General Medicine,Discharged,III-defined diseases
+427,Mrt4836,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,PR,TTSH,General Medicine,Follow-up at SOC,Other Cate
+39,ure6412,B2,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,SGH,General Medicine,Discharged,Neurological and sense disorders
+297,cTL7036,C,IN,FALSE,-,2024-07-31,60,2024-09-29,SC,SNEC,Others,Follow-up at SOC,Genitourinary disorders
+91,jeK1400,B1,IN,FALSE,0,2024-09-01,40,2024-10-11,SC,KKH,Others,Discharged,Neurological and sense disorders
+76,ZXl8729,C,IN,FALSE,0,2024-09-20,1,2024-09-21,NR,CGH,Orthopaedic Surgery,Follow-up at SOC,III-defined diseases
+345,leI4211,C,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,CGH,Others,Follow-up at SOC,Other Cate
+133,ykR9777,C,IN,FALSE,0,2024-07-31,60,2024-09-29,SC,SGH,Others,Follow-up at SOC,Other Cate
+120,MYj2751,DS Pte/Sub,DY,FALSE,3,2024-09-01,40,2024-10-11,SC,NUH,Ophthalmology,Follow-up at SOC,Other Cate
+277,VXi0346,B2+,IN,TRUE,0,2024-09-20,1,2024-09-21,SC,TTSH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+240,XAw4741,B1,IN,TRUE,0,2024-09-08,5,2024-09-13,SC,CGH,General Surgery,Follow-up at SOC,Other Cate
+2,pMB9307,B2,IN,TRUE,2,2024-07-31,60,2024-09-29,SC,SNEC,Others,Follow-up at SOC,III-defined diseases
+360,Rro5782,DS Pte/Sub,DY,TRUE,-,2024-09-01,40,2024-10-11,SC,SGH,Otorhinolaryngology,Follow-up at SOC,Genitourinary disorders
+25,MXP9037,B1,IN,FALSE,3,2024-09-20,1,2024-09-21,SC,KKH,General Surgery,Follow-up at SOC,Neurological and sense disorders
+52,iCY9648,DS Pte/Sub,DY,FALSE,0,2024-09-08,5,2024-09-13,PR,NUH,Ophthalmology,Others/Step-down care,Neurological and sense disorders
+464,oiV8701,DS Pte/Sub,DY,TRUE,0,2024-07-31,60,2024-09-29,SC,SNEC,Others,Follow-up at SOC,Neurological and sense disorders
+243,AnG3151,B2+,IN,FALSE,-,2024-09-01,40,2024-10-11,SC,SGH,Others,Follow-up at SOC,Digestive disease
+478,vNI9763,DS Pte/Sub,DY,FALSE,0,2024-09-20,1,2024-09-21,SC,NHC,Others,Follow-up at SOC,Other Cate
+77,pIs6550,C,IN,FALSE,-,2024-09-08,5,2024-09-13,SC,NHC,General Medicine,Discharged,Cardiovascular disease
+206,sVw5514,DS Pte/Sub,DY,TRUE,4,2024-07-31,60,2024-09-29,SC,TTSH,Otorhinolaryngology,Follow-up at SOC,III-defined diseases
+132,YIR7231,DS Pte/Sub,DY,FALSE,0,2024-09-01,40,2024-10-11,SC,NUH,General Surgery,Discharged,Cardiovascular disease
+32,mNb5597,DS Pte/Sub,DY,FALSE,0,2024-08-21,1,2024-08-22,NR,CGH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+239,JaT3835,B1,IN,FALSE,-,2024-08-20,28,2024-09-17,SC,NUH,Others,Follow-up at SOC,Other Cate
+67,cXl3506,DS Pte/Sub,DY,TRUE,-,2024-07-05,1,2024-07-06,SC,KKH,Others,Follow-up at SOC,Digestive disease
+306,EVa3481,C,IN,FALSE,3,2024-08-07,87,2024-11-02,PR,TTSH,Others,Follow-up at SOC,Other Cate
+88,xXn9809,C,IN,TRUE,4,2024-08-28,90,2024-11-26,SC,SGH,Ophthalmology,Follow-up at SOC,Neurological and sense disorders
+22,WkA0469,B2,IN,FALSE,0,2024-07-04,46,2024-08-19,SC,KKH,Ophthalmology,Follow-up at SOC,Neurological and sense disorders
+182,Ghz8538,B2,IN,FALSE,0,2024-08-05,63,2024-10-07,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+291,Loy8280,B2,IN,TRUE,0,2024-09-28,16,2024-10-14,SC,TTSH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+271,AcB9863,C,IN,FALSE,0,2024-07-17,98,2024-10-23,NR,SGH,General Medicine,Follow-up at SOC,Other Cate
+42,dxW9340,DS Pte/Sub,DY,FALSE,0,2024-08-29,1,2024-08-30,SC,NUH,Orthopaedic Surgery,Discharged,III-defined diseases
+278,QsZ0921,B2,IN,FALSE,0,2024-09-14,78,2024-12-01,SC,NUH,Otorhinolaryngology,Others,Other Cate
+3,lfp5019,C,IN,FALSE,-,2024-08-12,11,2024-08-23,SC,KKH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+224,VMS4946,DS Pte/Sub,DY,FALSE,0,2024-07-09,1,2024-07-10,SC,KKH,General Surgery,Follow-up at SOC,Other Cate
+77,VbR4898,DS Pte/Sub,DY,TRUE,0,2024-07-09,1,2024-07-10,SC,KKH,Others,Follow-up at SOC,Other Cate
+204,dqM5631,B1,IN,FALSE,0,2024-08-20,58,2024-10-17,SC,NUH,Others,Follow-up at SOC,III-defined diseases
+288,EEP1932,B2,IN,FALSE,4,2024-09-19,52,2024-11-10,SC,SNEC,Otorhinolaryngology,Others/Step-down care,Other Cate
+405,AkO8512,A,IN,FALSE,0,2024-07-28,86,2024-10-22,SC,TTSH,General Surgery,Discharged,Other Cate
+205,fFT8622,B2,IN,FALSE,3,2024-08-09,61,2024-10-09,SC,KKH,Others,Follow-up at SOC,Cardiovascular disease
+204,sDd4597,A,IN,FALSE,0,2024-08-27,16,2024-09-12,SC,KKH,Others,Follow-up at SOC,Cardiovascular disease
+308,cKJ3762,B2,IN,FALSE,0,2024-09-13,23,2024-10-06,SC,SGH,Others,Follow-up at SOC,III-defined diseases
+443,Axi6744,B2,IN,FALSE,0,2024-08-24,31,2024-09-24,SC,SGH,Others,Follow-up at SOC,Other Cate
+52,BrT7203,A,IN,FALSE,0,2024-09-16,66,2024-11-21,SC,KKH,Others,Follow-up at SOC,Other Cate
+324,yIX8048,B2,IN,FALSE,3,2024-09-24,86,2024-12-19,SC,NUH,Others,Follow-up at SOC,Digestive disease
+438,Quw8728,DS Pte/Sub,DY,FALSE,-,2024-09-20,1,2024-09-21,SC,KKH,Others,Discharged,Neurological and sense disorders
+490,EjZ2645,DS Pte/Sub,DY,FALSE,-,2024-08-08,1,2024-08-09,SC,SGH,Others,Follow-up at SOC,Other Cate
+77,UyC7318,B2,IN,FALSE,4,2024-09-07,24,2024-10-01,SC,KTPH,General Medicine,Follow-up at SOC,Genitourinary disorders
+472,wGZ5622,DS Pte/Sub,DY,TRUE,-,2024-07-20,1,2024-07-21,SC,NUH,Others,Discharged,Digestive disease
+151,EQQ9981,DS Pte/Sub,DY,TRUE,-,2024-08-10,1,2024-08-11,SC,SKH,Others,Follow-up at SOC,Other Cate
+397,pNC7662,B2,IN,FALSE,-,2024-07-17,38,2024-08-24,SC,NUH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+42,cMy4043,B1,IN,FALSE,-,2024-09-25,12,2024-10-07,SC,NTFGH,Others,Follow-Up At Primary Care,Neurological and sense disorders
+85,fHm2022,A,IN,TRUE,0,2024-08-11,95,2024-11-14,SC,SGH,Others,Follow-up at SOC,Digestive disease
+274,WjI3036,DS Pte/Sub,DY,FALSE,2,2024-08-22,1,2024-08-23,SC,SGH,General Surgery,Follow-up at SOC,Other Cate
+6,gSn2420,B2,IN,FALSE,0,2024-07-22,8,2024-07-30,SC,NUH,Ophthalmology,Follow-up at SOC,Genitourinary disorders
+360,poP2106,B2,IN,TRUE,-,2024-09-07,63,2024-11-09,SC,SGH,Others,Follow-up at SOC,Other Cate
+245,NMo5170,B1,IN,FALSE,2,2024-07-28,41,2024-09-07,SC,AH,Others,Follow-up at SOC,Other Cate
+343,Zpn9995,C,IN,FALSE,4,2024-06-30,88,2024-09-26,SC,SGH,Otorhinolaryngology,Discharged,Other Cate
+182,kaX3060,B2,IN,FALSE,2,2024-07-18,95,2024-10-21,SC,SGH,Others,Discharged,Other Cate
+382,lsu7041,C,IN,FALSE,0,2024-07-03,76,2024-09-17,SC,KTPH,General Surgery,Follow-up at SOC,Other Cate
+41,ppu8340,C,IN,TRUE,0,2024-07-25,34,2024-08-28,SC,CGH,Ophthalmology,Follow-up at SOC,Other Cate
+450,IoD6819,DS Pte/Sub,DY,TRUE,0,2024-08-24,1,2024-08-25,SC,KKH,Others,Follow-up at SOC,Other Cate
+489,qEy8144,A,IN,FALSE,4,2024-07-24,49,2024-09-11,SC,SGH,Others,Follow-up at SOC,Other Cate
+456,BNw0223,DS Pte/Sub,DY,TRUE,0,2024-07-14,1,2024-07-15,NR,SGH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+216,WuM5272,B2,IN,TRUE,-,2024-07-16,50,2024-09-04,SC,KKH,General Surgery,Discharged,Other Cate
+442,gJY6088,B2,IN,TRUE,-,2024-09-16,27,2024-10-13,PR,KKH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+360,sNn0613,DS Pte/Sub,DY,TRUE,2,2024-09-23,1,2024-09-24,SC,TTSH,Others,Others/Step-down care,Other Cate
+202,Plj1939,A,IN,TRUE,-,2024-08-31,89,2024-11-28,SC,KKH,Others,Follow-up at SOC,Digestive disease
+119,FHh3074,DS Pte/Sub,DY,TRUE,0,2024-07-15,1,2024-07-16,SC,SGH,General Surgery,Discharged,Other Cate
+306,QQw4996,DS Pte/Sub,DY,TRUE,0,2024-07-09,1,2024-07-10,SC,NHC,Orthopaedic Surgery,Follow-up at SOC,Cardiovascular disease
+227,bdJ5653,B1,IN,FALSE,3,2024-07-22,43,2024-09-03,SC,SNEC,General Medicine,Follow-up at SOC,Digestive disease
+496,eEr8365,DS Pte/Sub,DY,TRUE,0,2024-07-22,1,2024-07-23,SC,SNEC,Others,Follow-up at SOC,III-defined diseases
+153,lHA7673,C,IN,TRUE,0,2024-09-21,73,2024-12-03,SC,NTFGH,Others,Discharged,Other Cate
+19,RPU2029,A,IN,TRUE,4,2024-07-04,14,2024-07-18,SC,SGH,General Surgery,Others/Step-down care,Digestive disease
+205,xda9104,B2+,IN,TRUE,0,2024-07-22,69,2024-09-29,SC,CGH,Ophthalmology,Follow-up at SOC,Other Cate
+171,Qru3799,B2,IN,TRUE,-,2024-09-16,75,2024-11-30,SC,AH,General Medicine,Follow-up at SOC,Other Cate
+80,vlY7634,C,IN,FALSE,0,2024-08-02,27,2024-08-29,SC,KKH,Others,Follow-up at SOC,III-defined diseases
+391,Fqa1873,C,IN,TRUE,-,2024-08-26,84,2024-11-18,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+483,aUK0714,DS Pte/Sub,DY,TRUE,0,2024-07-08,1,2024-07-09,SC,KKH,Orthopaedic Surgery,Others/Step-down care,Digestive disease
+150,WHM2329,C,IN,FALSE,0,2024-08-09,33,2024-09-11,SC,KKH,Ophthalmology,Follow-up at SOC,III-defined diseases
+437,bpS4318,B2,IN,FALSE,0,2024-08-02,18,2024-08-20,SC,KKH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
+472,Qeu2538,B2,IN,TRUE,-,2024-09-28,11,2024-10-09,SC,NUH,Others,Follow-up at SOC,Digestive disease
+56,YWg5855,A,IN,FALSE,-,2024-07-04,41,2024-08-14,SC,KTPH,Otorhinolaryngology,Discharged,Other Cate
+95,Cug6017,C,IN,FALSE,-,2024-09-16,21,2024-10-07,SC,TTSH,Ophthalmology,Follow-up at SOC,Other Cate
+66,vqh8252,B2,IN,TRUE,0,2024-08-28,80,2024-11-16,SC,SGH,General Surgery,Discharged,Genitourinary disorders
+7,fzv6494,DS Pte/Sub,DY,FALSE,-,2024-09-09,1,2024-09-10,SC,NUH,Others,Follow-up at SOC,Neurological and sense disorders
+400,OXh2243,A,IN,FALSE,4,2024-09-01,70,2024-11-10,SC,NUH,General Medicine,Follow-up at SOC,Cardiovascular disease
+69,RCo6433,C,IN,FALSE,-,2024-08-25,63,2024-10-27,SC,CGH,General Medicine,Discharged,Other Cate
+352,Ntm7715,B2,IN,TRUE,0,2024-08-05,93,2024-11-06,SC,KKH,Others,Follow-up at SOC,Other Cate
+315,MLY6180,C,IN,TRUE,0,2024-07-19,41,2024-08-29,SC,NUH,Others,Discharged,Neurological and sense disorders
+414,Dmq2581,C,IN,FALSE,0,2024-07-17,93,2024-10-18,SC,TTSH,General Surgery,Follow-up at SOC,III-defined diseases
+347,CBp2198,DS Pte/Sub,DY,FALSE,-,2024-08-26,1,2024-08-27,SC,NUH,Others,Discharged,Other Cate
+222,EvN3165,DS Pte/Sub,DY,FALSE,3,2024-08-15,1,2024-08-16,SC,NTFGH,Others,Follow-up at SOC,Other Cate
+414,shl4952,C,IN,TRUE,2,2024-09-26,57,2024-11-22,SC,CGH,Orthopaedic Surgery,Follow-up at SOC,Neurological and sense disorders
+461,PBd7080,DS Pte/Sub,DY,TRUE,0,2024-09-26,1,2024-09-27,NR,NHC,General Medicine,Follow-up at SOC,Cardiovascular disease
+447,ixQ5269,DS Pte/Sub,DY,FALSE,0,2024-07-01,1,2024-07-02,SC,TTSH,Others,Follow-up at SOC,Other Cate
+348,AlQ1562,DS Pte/Sub,DY,TRUE,4,2024-07-04,1,2024-07-05,SC,NUH,Others,Follow-up at SOC,Other Cate
+85,niJ4566,DS Pte/Sub,DY,TRUE,4,2024-08-05,1,2024-08-06,SC,CGH,Others,Discharged,Other Cate
+10,mtx9036,DS Pte/Sub,DY,TRUE,-,2024-08-22,1,2024-08-23,SC,NUH,Ophthalmology,Follow-up at SOC,Digestive disease
+98,pfZ9142,DS Pte/Sub,DY,TRUE,0,2024-08-06,1,2024-08-07,PR,SGH,General Surgery,Follow-up at SOC,Other Cate
+397,XFW7157,C,IN,TRUE,-,2024-09-07,11,2024-09-18,SC,KKH,Others,Discharged,III-defined diseases
+8,ULw5060,B2,IN,TRUE,4,2024-08-20,41,2024-09-30,NR,KTPH,Others,Follow-up at SOC,Other Cate
+364,DKe9679,B1,IN,TRUE,3,2024-07-16,17,2024-08-02,SC,CGH,General Surgery,Follow-up at SOC,Other Cate
+235,PVA0079,DS Pte/Sub,DY,FALSE,-,2024-07-05,1,2024-07-06,SC,NUH,Others,Follow-up at SOC,Cardiovascular disease
+207,pBE1605,DS Pte/Sub,DY,TRUE,0,2024-07-30,1,2024-07-31,SC,SGH,Others,Follow-up at SOC,Other Cate
+267,NLB7161,C,IN,TRUE,0,2024-08-18,69,2024-10-26,PR,SGH,General Surgery,Follow-up at SOC,Other Cate
+245,Bek9258,C,IN,FALSE,3,2024-09-26,78,2024-12-13,SC,TTSH,General Medicine,Follow-up at SOC,Other Cate
+71,dtP6221,DS Pte/Sub,DY,FALSE,0,2024-09-05,1,2024-09-06,SC,NUH,General Medicine,Follow-up at SOC,Other Cate
+112,bQQ3757,C,IN,TRUE,-,2024-09-05,99,2024-12-13,SC,NUH,Others,Follow-up at SOC,Other Cate
+159,BVs1405,DS Pte/Sub,DY,TRUE,3,2024-08-04,1,2024-08-05,SC,NUH,Others,Follow-up at SOC,III-defined diseases
+250,ygk6266,B1,IN,TRUE,-,2024-07-31,78,2024-10-17,SC,CGH,Others,Follow-up at SOC,Neurological and sense disorders
+414,TKO0572,C,IN,FALSE,3,2024-09-10,62,2024-11-11,SC,TTSH,Others,Follow-up at SOC,Other Cate
+414,hVv5353,ICU,IN,FALSE,0,2024-08-07,89,2024-11-04,SC,SGH,General Medicine,Discharged,Cardiovascular disease
+65,SOs9756,A,IN,FALSE,0,2024-07-26,62,2024-09-26,SC,TTSH,Others,Follow-up at SOC,Other Cate
+72,KYG5318,B2,IN,TRUE,0,2024-07-08,70,2024-09-16,SC,NUH,Others,Follow-up at SOC,Other Cate
+436,yBD1206,B1,IN,TRUE,4,2024-07-11,10,2024-07-21,SC,SGH,General Medicine,Discharged,Digestive disease
+402,Qxa6648,DS Pte/Sub,DY,FALSE,4,2024-09-16,1,2024-09-17,SC,TTSH,Others,Discharged,III-defined diseases
+104,kHf9641,C,IN,TRUE,-,2024-07-08,41,2024-08-18,SC,NUH,Ophthalmology,Follow-up at SOC,Genitourinary disorders
+417,JTL3226,C,IN,TRUE,0,2024-07-08,15,2024-07-23,SC,NTFGH,Others,Discharged,Digestive disease
+498,RhK5308,A,IN,FALSE,0,2024-07-10,48,2024-08-27,PR,KKH,Others,Discharged,III-defined diseases
+346,jcb7261,DS Pte/Sub,DY,FALSE,0,2024-08-06,1,2024-08-07,SC,NCC,Others,Follow-up at SOC,III-defined diseases
+102,ufL6073,B2+,IN,FALSE,3,2024-07-30,81,2024-10-19,SC,KKH,General Medicine,Follow-up at SOC,Other Cate
+213,lkk2565,DS Pte/Sub,DY,FALSE,-,2024-07-14,1,2024-07-15,PR,TTSH,Others,Follow-up at SOC,Other Cate
+116,ale0420,A,IN,FALSE,0,2024-07-09,65,2024-09-12,SC,NUH,General Medicine,Follow-up at SOC,Genitourinary disorders
+398,wvY0001,B2+,IN,FALSE,-,2024-08-29,69,2024-11-06,SC,KKH,Others,Follow-Up At Primary Care,Other Cate
+190,EbH4189,DS Pte/Sub,DY,FALSE,3,2024-09-02,1,2024-09-03,SC,SGH,Others,Follow-up at SOC,Other Cate
+78,dsq7399,DS Pte/Sub,DY,FALSE,0,2024-09-12,1,2024-09-13,SC,NHC,Others,Follow-up at SOC,Other Cate
+151,GPI9666,B1,IN,TRUE,3,2024-09-28,20,2024-10-18,PR,CGH,General Medicine,Discharged,Neurological and sense disorders
+495,itl5673,DS Pte/Sub,DY,FALSE,0,2024-08-05,1,2024-08-06,PR,SNEC,Others,Discharged,Neurological and sense disorders
+20,UIK6578,C,IN,TRUE,-,2024-09-16,75,2024-11-30,PR,NUH,General Surgery,Discharged,Genitourinary disorders
+145,jAI6257,B2,IN,TRUE,3,2024-08-03,64,2024-10-06,SC,NUH,General Surgery,Follow-up at SOC,Cardiovascular disease
+384,kHm2445,B2+,IN,TRUE,0,2024-07-27,67,2024-10-02,SC,KKH,Others,Follow-up at SOC,Cardiovascular disease
+424,EVH2871,DS Pte/Sub,DY,TRUE,-,2024-07-10,1,2024-07-11,SC,SKH,General Medicine,Follow-Up At Primary Care,Neurological and sense disorders
+367,Ajf5015,DS Pte/Sub,DY,TRUE,0,2024-08-17,1,2024-08-18,SC,KKH,Others,Follow-up at SOC,Cardiovascular disease
+2,yQw9613,DS Pte/Sub,DY,TRUE,-,2024-09-15,1,2024-09-16,SC,KTPH,General Medicine,Follow-up at SOC,III-defined diseases
+214,rCv4075,C,IN,TRUE,-,2024-09-22,9,2024-10-01,SC,SNEC,Orthopaedic Surgery,Discharged,Other Cate
+160,HZd3561,DS Pte/Sub,DY,FALSE,-,2024-08-04,1,2024-08-05,NR,AH,General Medicine,Follow-up at SOC,Neurological and sense disorders
+360,ZeI0182,C,IN,FALSE,4,2024-09-28,63,2024-11-30,PR,TTSH,General Medicine,Follow-up at SOC,Other Cate
+42,YMy3336,A,IN,FALSE,-,2024-09-05,8,2024-09-13,SC,TTSH,Others,Follow-up at SOC,Other Cate
+315,DBs1084,DS Pte/Sub,DY,TRUE,4,2024-07-10,1,2024-07-11,SC,NUH,Others,Discharged,Other Cate
+491,fay0980,B2,IN,TRUE,-,2024-09-05,18,2024-09-23,SC,KKH,Ophthalmology,Follow-up at SOC,Other Cate
+217,sxg4596,DS Pte/Sub,DY,TRUE,4,2024-09-24,1,2024-09-25,SC,KKH,Others,Discharged,Neurological and sense disorders
+48,XTf7832,C,IN,FALSE,-,2024-06-30,39,2024-08-08,SC,CGH,Otorhinolaryngology,Follow-up at SOC,Other Cate
+275,QnN9620,DS Pte/Sub,DY,FALSE,0,2024-08-17,1,2024-08-18,SC,NCC,General Medicine,Follow-up at SOC,Other Cate
+5,nGC7296,ICU,IN,FALSE,-,2024-07-23,76,2024-10-07,SC,SNEC,Others,Follow-up at SOC,Other Cate
+494,Cxj4942,B1,IN,TRUE,-,2024-07-05,77,2024-09-20,SC,KTPH,Others,Follow-up at SOC,Other Cate
+113,ZlF7614,B2+,IN,FALSE,0,2024-09-04,81,2024-11-24,SC,SGH,Others,Follow-up at SOC,Other Cate
+200,LnK0848,B1,IN,TRUE,0,2024-09-10,29,2024-10-09,SC,SGH,Otorhinolaryngology,Others,Neurological and sense disorders
+445,VvV6299,DS Pte/Sub,DY,FALSE,2,2024-07-25,1,2024-07-26,SC,NUH,General Medicine,Follow-up at SOC,Other Cate
+251,kvH7553,B2,IN,TRUE,-,2024-09-11,58,2024-11-08,SC,KTPH,Orthopaedic Surgery,Discharged,Genitourinary disorders
+125,BxI7035,DS Pte/Sub,DY,FALSE,-,2024-07-15,1,2024-07-16,PR,NUH,Others,Follow-up at SOC,Other Cate
+471,krr5860,C,IN,FALSE,-,2024-09-11,80,2024-11-30,SC,SGH,Others,Follow-up at SOC,Other Cate
+418,bnz1338,B1,IN,FALSE,-,2024-09-23,16,2024-10-09,SC,TTSH,Ophthalmology,Discharged,Other Cate
+307,dLL6780,DS Pte/Sub,DY,TRUE,0,2024-09-17,1,2024-09-18,SC,TTSH,Otorhinolaryngology,Follow-up at SOC,Digestive disease
+481,RAp3548,B2,IN,TRUE,-,2024-08-14,10,2024-08-24,SC,NUH,Others,Follow-up at SOC,Other Cate
+496,taK2574,DS Pte/Sub,DY,TRUE,0,2024-08-02,1,2024-08-03,SC,KKH,Others,Follow-up at SOC,Other Cate
+297,VbT2247,B1,IN,FALSE,0,2024-09-03,76,2024-11-18,PR,KTPH,Others,Discharged,Other Cate
+292,SVI5552,DS Pte/Sub,DY,FALSE,-,2024-09-03,1,2024-09-04,SC,TTSH,Orthopaedic Surgery,Follow-up at SOC,Other Cate
